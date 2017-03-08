@@ -6,7 +6,7 @@ github: https://github.com/fossiiita/
 about: IIIT Allahabad
 
 baseurl: "/blog"
-url: "https://fossiiita.github.io"
+url: "https://fossiiita.github.io/blog"
 
 disqus_shortname:
 google_analytics:
