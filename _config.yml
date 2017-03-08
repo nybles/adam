@@ -5,7 +5,7 @@ logo: /static/img/avatar.png
 github: https://github.com/fossiiita/
 about: IIIT Allahabad
 
-baseurl: "https://fossiiita.github.io/blog/"
+baseurl: ""
 url: "https://fossiiita.github.io/blog"
 
 disqus_shortname:
