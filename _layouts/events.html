@@ -12,8 +12,8 @@ layout: default
     <div class="project-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
-    			<a href="/static/events/{{ i.image }}" class="thickbox">
-    			<div class="project-img bordered" style="background-image: url('/static/events/{{ i.image }}'); background-size: contain;"></div>
+    			<a href="/blog/static/events/{{ i.image }}" class="thickbox">
+    			<div class="project-img bordered" style="background-image: url('/blog/static/events/{{ i.image }}'); background-size: contain;"></div>
                 </a>
                 {% if i.url %} <a href="{{ i.url }}"> {% endif %}
     			<h3 class="project-headlines">{{ i.name }}</h3>
