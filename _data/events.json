@@ -1,30 +1,16 @@
 [
-	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
-	},
-	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
-	},
-	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
-	}
-
+    {
+        "name": "IIIT Hacks",
+        "image": "iiitahacks_logo.png",
+        "url": "https://iiitahacks.github.io",
+        "date": "Sep 2016",
+        "tags": ["Hackathon"]
+    },
+    {
+        "name": "Opencode",
+        "image": "opencode_logo.jpg",
+        "url": "#",
+        "date": "Jan 2017",
+        "tags": ["GSOC", "Open Source", "Collaboration"]
+    },
 ]
