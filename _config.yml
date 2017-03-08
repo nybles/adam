@@ -1,15 +1,15 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: FOSS IIITA
+description: Promoting Open Source
+author: GeekHaven
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/fossiiita/
+about: IIIT Allahabad
 
 baseurl: ""
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname:
+google_analytics:
 
 share:
   twitter_username: \#

@@ -11,25 +11,13 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
+    "text": "Events",
+    "url": "/events",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "#",
-    "icon": "fa-graduation-cap",
-    "layout": "post"
-  },
-  {
     "text": "Github",
-    "url": "",
+    "url": "https://github.com/fossiiita/",
     "icon": "fa-github"
   },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
-  }
 ]
