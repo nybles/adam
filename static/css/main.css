@@ -173,3 +173,12 @@ footer {
 .pager li.active a {
     background: rgba(89, 148, 129, 0.3);
 }
+
+.list-separator {
+    padding: 0 !important;
+}
+
+.list-separator li {
+    margin:  0 !important;
+    padding: 0 !important;
+}
