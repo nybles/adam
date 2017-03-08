@@ -5,8 +5,8 @@ logo: /static/img/avatar.png
 github: https://github.com/fossiiita/
 about: IIIT Allahabad
 
-baseurl: ""
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "/"
+url: "https://fossiiita.github.io/blog"
 
 disqus_shortname:
 google_analytics:
