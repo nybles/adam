@@ -1,23 +1,28 @@
 [
-  {
-    "text": "Home",
-    "url": "/",
-    "icon": "fa-home",
-    "layout": "post"
-  },
-  {
-    "text": "About",
-    "url": "/about/",
-    "icon": "fa-comments"
-  },
-  {
-    "text": "Events",
-    "url": "/events",
-    "icon": "fa-desktop"
-  },
-  {
-    "text": "Github",
-    "url": "https://github.com/fossiiita/",
-    "icon": "fa-github"
-  },
+    {
+        "text": "Home",
+        "url": "/",
+        "icon": "fa-home",
+        "layout": "post"
+    },
+    {
+        "text": "About",
+        "url": "/about/",
+        "icon": "fa-comments"
+    },
+    {
+        "text": "Events",
+        "url": "/events",
+        "icon": "fa-desktop"
+    },
+    {
+        "text": "Making a post",
+        "url": "/howto",
+        "icon": "fa-question"
+    },
+    {
+        "text": "Github",
+        "url": "https://github.com/fossiiita/",
+        "icon": "fa-github"
+    },
 ]
