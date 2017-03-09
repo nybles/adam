@@ -1,21 +1,15 @@
-## HCZ Material theme
+## [FOSSIIITA Blog](https://fossiiita.github.io/blog)
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+This is the official blog of FOSS Wing at [GeekHaven](https://github.com/geekhaven), IIIT-Allahabad.
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+Here's the clue for hackers:
+* The posts are in the \_posts directory.
+* The site data is available in \_data directory.
+  - The links in navbar / sidebar can be edited from \_data/urls.json.
+  - The social links for the blog owner can be provided from \_data/social.json.
+  - The list of events are available at, and can be modified from \_data/events.json.
 
-#### Feature
+* The *\_config.yml* is the configuration file for the entire blog. *Handle with care!*
 
-* Sitemap and XML Feed
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
 
-#### Screenshot
-
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+*Template forked from [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)*
