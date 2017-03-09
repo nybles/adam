@@ -8,7 +8,9 @@ author: himanshub16
 * Fork [this repo](https://github.com/fossiiita/blog).
 ![forking](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-* To add new posts, simply add a file in the [`_posts` directory](https://github.com/fossiiita/blog/tree/master/_posts) (on your fork) that follows the convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. Take a look at the [source](https://github.com/fossiiita/blog/tree/master/help.md) for this post to get an idea about how it works.
+* Head towards the [\_posts directory](https://github.com/fossiiita/blog/tree/master/_posts) (on your own fork).
+* Create a new file for your post, taking [this text](https://raw.githubusercontent.com/fossiiita/blog/master/help.md) as reference for the format.
+* Make sure the filename is like `YYYY-MM-DD-name-of-post.md`.
 
 * Once you are done, [make a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) for your post to be published.
 ![create a pr](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png).
