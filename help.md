@@ -2,6 +2,7 @@
 layout: page
 title: Creating a post
 permalink: /howto/
+author: himanshub16
 ---
 
 * Fork [this repo](https://github.com/fossiiita/blog).
