@@ -18,6 +18,22 @@
         <link rel="stylesheet" href="{{ site.baseurl }}/static/css/projects.css">
         <link rel="stylesheet" href="{{ site.baseurl }}/static/css/main.css">
 
+        <!-- some overrides -->
+        <style>
+         .header-panel.shadow-z-2 {
+             background-color: {{ site.theme_color }};
+         }
+         body .container .jumbotron-primary, body .container .well-primary, body .container-fluid .jumbotron-primary, body .container-fluid .well-primary {
+             background-color: {{ site.theme_color }};
+         }
+         .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a {
+             background-color: {{ site.theme_highlight_color }};
+         }
+         a, a:focus, a:hover {
+             color: {{ site.theme_color }};
+         }
+        </style>
+
         <script type="text/javascript">
           //loadingImage is relative to project dir
           var tb_pathToImage = "{{ site.baseurl }}/static/img/loadingAnimation.gif";

@@ -8,6 +8,9 @@ about: IIIT Allahabad
 baseurl: "/blog"
 url: "https://fossiiita.github.io/blog"
 
+theme_color: "#006064"
+theme_highlight_color: "#00838f"
+
 disqus_shortname:
 google_analytics:
 
