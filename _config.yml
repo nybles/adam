@@ -11,7 +11,9 @@ url: "https://fossiiita.github.io/blog"
 theme_color: "#006064"
 theme_highlight_color: "#00838f"
 
-disqus_shortname:
+comments: true
+
+disqus_shortname: geekhaven-blog
 google_analytics:
 
 share:
