@@ -16,6 +16,11 @@
         "icon": "fa-desktop"
     },
     {
+        "text": "Editors",
+        "url": "/editors/",
+        "icon": "fa-paragraph"
+    },
+    {
         "text": "Making a post",
         "url": "/howto",
         "icon": "fa-question"
