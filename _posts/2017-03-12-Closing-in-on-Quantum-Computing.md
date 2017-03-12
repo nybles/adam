@@ -1,3 +1,9 @@
+---
+layout: post
+title: Closing in on Quantum Computing
+author: Elaine Mary Rose
+categories: future
+---
 # **Closing in on Quantum Computing**
 
 

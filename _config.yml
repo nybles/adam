@@ -1,8 +1,8 @@
 title: Bytes
-description: Promoting Open Source
+description: Tech Newsletter of IIIT Allahabad
 author: Bytes 
 logo: /blog/static/img/avatar.png
-github: https://github.com/fossiiita/
+github: https://github.com/fossiiita/blog
 about: IIIT Allahabad
 
 baseurl: "/blog"
