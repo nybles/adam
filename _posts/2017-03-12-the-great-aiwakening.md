@@ -4,7 +4,6 @@ title: The Great AIwakening
 author: Sulyab Thottungal
 categories: future trending
 ---
-# The Great AIwakening
 
 News articles related to _Artificial Intelligence redefining our lives_ have become so commonplace now, to a point that it has begun to get boring. Whether it be self-driving vehicles, artificial personal assistants or Ultron/Skynet kind of robotic supervillains - it seems that all the news features on AI fall into one of two categories - either celebrating the inclusion of AI in our everyday lives, or seeing it as a signal of imminent doom.
 
