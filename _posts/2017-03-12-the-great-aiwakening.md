@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "The Great AIwakening"
-date:   2017-03-12 23:00:00
-categories: Artificial Intelligence
+title: The Great AIwakening
+author: Sulyab Thottungal
+categories: future trending
 ---
 # The Great AIwakening
-##### By [Sulyab Thottungal](https://sulyab.wordpress.com)
 
 News articles related to _Artificial Intelligence redefining our lives_ have become so commonplace now, to a point that it has begun to get boring. Whether it be self-driving vehicles, artificial personal assistants or Ultron/Skynet kind of robotic supervillains - it seems that all the news features on AI fall into one of two categories - either celebrating the inclusion of AI in our everyday lives, or seeing it as a signal of imminent doom.
 
@@ -26,3 +25,5 @@ On a slightly different note, if our goal is to create artificial human beings, 
 Can such an _intelligent AI_ be created at all? We don’t know, but it is definitely possible. If you went back billions of years and looked at the chemical compounds on earth and wondered _“can these really join together to become intelligent organisms?”_, it is very likely that you would have believed such a thing to be impossible. Yet here we are. In case such intelligent agents are made, would it mean the end of mankind? Again, we can’t be sure. But, neither evolution nor the universe in general ever really cared about any species surviving or not surviving - so we can’t really complain about whatever may happen.
 
 _Contact me at [sulyabtv@gmail.com](mailto:sulyabtv@gmail.com)_ 
+
+##### By [Sulyab Thottungal](https://sulyab.wordpress.com)

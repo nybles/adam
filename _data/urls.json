@@ -11,19 +11,14 @@
         "icon": "fa-comments"
     },
     {
-        "text": "Events",
-        "url": "/events",
-        "icon": "fa-desktop"
-    },
-    {
         "text": "Editors",
         "url": "/editors/",
-        "icon": "fa-paragraph"
+        "icon": "fa-user"
     },
     {
-        "text": "Making a post",
+        "text": "Adding my Article",
         "url": "/howto",
-        "icon": "fa-question"
+        "icon": "fa-plus"
     },
     {
         "text": "Github",
