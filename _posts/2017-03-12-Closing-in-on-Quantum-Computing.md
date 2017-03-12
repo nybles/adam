@@ -4,8 +4,6 @@ title: Closing in on Quantum Computing
 author: Elaine Mary Rose
 categories: future
 ---
-# **Closing in on Quantum Computing**
-
 
 The story of quantum computers begins in 1981 with _Richard Feynman_, probably the most famous physicist of his time. 
 At a conference on physics and computation at the Massachusetts Institute of Technology, Feynman asked the question: 
