@@ -11,17 +11,17 @@
         "icon": "fa-comments"
     },
     {
-        "text": "Events",
-        "url": "/events",
+        "text": "Category",
+        "url": "/category/future",
         "icon": "fa-desktop"
     },
     {
         "text": "Editors",
         "url": "/editors/",
-        "icon": "fa-paragraph"
+        "icon": "fa-free-code-camp"
     },
     {
-        "text": "Making a post",
+        "text": "How do i add mine?",
         "url": "/howto",
         "icon": "fa-question"
     },
