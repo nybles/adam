@@ -14,7 +14,7 @@ intro: IIIT Allahabad has been busy with all things tech ever since the year sta
 
 Quick Talks powered by Github were a means to spread knowledge about upcoming topics among the college students, all done within the easy-to-handle 30 minutes.
 
--Vishnu K.S., gave a quick talk on his experiences with Open Source development and to inspire people to get started with Open Source development. 
+- Vishnu K.S., gave a quick talk on his experiences with Open Source development and to inspire people to get started with Open Source development. 
 
 - Gautham Santhosh, Co-ordinator of the FOSS Wing, unfurled the complexities of a chatbot and built a fully functioning one within 30 minutes, which was a sight to behold.
 
@@ -27,6 +27,8 @@ Quick Talks powered by Github were a means to spread knowledge about upcoming to
 - Himanshu Shekhar, Member of the FOSS Wing, Geekhaven delivered a powerful talk on how to supercharge the humble VIM text editor, and made everyone wonder how the humble CLI editor became a Sublime-toppling monster, with all functionality one could think of.
 
 - Aseem Shrey, member of the Cyber Security wing, Geekhaven, explained various website vulnerabilities with a step-by-step demonstration of a website being hacked in real time.
+
+[View more](https://geekhaven.github.io/quick_talks/)
 
 ## 2. OpenCode
 
