@@ -1,12 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 
-body{
-  background: #3498db;
-  margin: 150px 0;
-  text-align: center;
-  color: #fff;
-  font-family: 'Oswald', sans-serif;
-}
+
 .content{
   letter-spacing: 2px;
   text-transform: uppercase;
