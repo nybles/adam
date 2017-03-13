@@ -10,7 +10,7 @@ title: Bytes
           <i class="fa fa-sticky-note"></i>
         </div>
         <div class="row-content">
-          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - {{ post.author }}</h4>
           <div class="least-content">{{ post.date | date_to_string }}</div>
 
           <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 20 }}</p>
