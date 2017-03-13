@@ -5,7 +5,7 @@ logo: /nybles.github.io/static/img/avatar.png
 github: https://github.com/nybles
 about: IIIT Allahabad
 
-baseurl: "/"
+baseurl: "/nybles.github.io"
 url: "https://nybles.github.io/"
 
 theme_color: "#006064"
