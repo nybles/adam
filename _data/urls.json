@@ -20,6 +20,11 @@
         "url": "/howto",
         "icon": "fa-plus"
     },
+     {
+        "text": "Categories",
+        "url": "/category/future",
+        "icon": "fa-check"
+    },
     {
         "text": "Github",
         "url": "https://github.com/nybles/",
