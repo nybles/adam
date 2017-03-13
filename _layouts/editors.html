@@ -12,8 +12,8 @@ layout: default
     <div class="project-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
-    			<a href="/blog/static/editors/{{ i.image }}" class="thickbox">
-    			<div class="project-img bordered" style="background-image: url('/blog/static/editors/{{ i.image }}'); background-size: contain;"></div>
+    			<a href="{{ site.baseurl }}/static/editors/{{ i.image }}" class="thickbox">
+    			<div class="project-img bordered" style="background-image: url('{{ site.baseurl }}/static/editors/{{ i.image }}'); background-size: contain;"></div>
                 </a>
                 {% if i.url %} <a href="{{ i.url }}"> {% endif %}
     			<h3 class="project-headlines">{{ i.name }}</h3>
@@ -29,13 +29,13 @@ layout: default
 
     			</div>-->
     			<div class="project-footer">
-    				{% if i.gh %}
-    				<a href="{{ i.gh }}" class="btn btn-info btn-raised btn-sm project-link"><i class="fa fa-github"></i></a>
-    				{% endif %}
             {% if i.fb %}
     				<a href="{{ i.fb }}" class="btn btn-info btn-raised btn-sm project-link"><i class="fa fa-facebook"></i></a>
     				{% endif %}
-    				<!--<span class="project-timeline">{{ i.date }}</span>-->
+						{% if i.gh %}
+    				<a href="{{ i.gh }}" class="btn btn-info btn-raised btn-sm project-link"><i class="fa fa-github"></i></a>
+    				{% endif %}
+    				<span class="project-timeline">{{ i.dept }}</span>
     			</div>
     		</div>
     	</div>

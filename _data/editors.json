@@ -2,8 +2,25 @@
   {
     "name": "Gautham Santhosh",
     "image": "gautham.png",
-    "url": "http://github.com/gauthamzz",
+    "url": "http://gauthamzz.github.io",
     "gh": "https://github.com/gauthamzz",
-    "fb": "https://facebook.com/gauthamzz"
+    "fb": "https://facebook.com/gauthamzz",
+    "dept": "Overall"
   },
+  {
+    "name": "Sulyab TV",
+    "image": "sulyab.jpg",
+    "url": "http://sulyab.wordpress.com",
+    "gh": "https://github.com/sulyabtv",
+    "fb": "https://facebook.com/sulyabtv",
+    "dept": "Future Tech"
+  },
+  {
+    "name": "Faheem Hassan",
+    "image": "faheem.jpg",
+    "url": "https://github.com/faheemzunjani",
+    "gh": "https://github.com/faheemzunjani",
+    "fb": "https://www.facebook.com/faheemzunjani",
+    "dept": "Trending"
+  }
 ]
