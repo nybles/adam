@@ -3,6 +3,7 @@ layout: post
 title: IIIT Allahabad Tech Diaries
 author: Bhanu Bhandari
 categories: campus
+intro: IIIT Allahabad has been busy with all things tech ever since the year started, so here's a quick rundown of all that's happened with IIIT A and tech thus far.
 ---
 
 # IIIT Allahabad Tech Diaries
