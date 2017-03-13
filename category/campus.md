@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: campus
-title: capus
+title: campus
 permalink: /category/campus
 ---
