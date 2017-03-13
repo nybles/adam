@@ -2,7 +2,7 @@
 layout: post
 title:  "Hackathons: What’s all the fuss about and why you should care"
 author: Faheem Zunjani
-categories: development tech trending
+categories: trending campus
 ---
 
 ![Hackathon]({{ site.url }}/assets/hackathon-bigpic.jpg)
