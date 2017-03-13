@@ -10,11 +10,24 @@ title: Bytes
           <i class="fa fa-sticky-note"></i>
         </div>
         <div class="row-content">
-          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - <i><span style="font-size:80%;">{{ post.author }}</span></i></h4>
+          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h4>
           <div class="least-content">{{ post.date | date_to_string }}</div>
-
-          <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 20 }}</p>
+          <p>
+           By {{ post.author }} -
+          {% assign words = post.content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:180 }} min read
+          {% endif %}
+           </p>
+        {% if post.intro %}
+        <p class="list-group-item-text">{{ post.intro}}</p>
+        {% else %}
+        <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 20 }}</p>
+        {% endif %}
         </div>
+        
       </div>
       <div class="list-group-separator"></div>
       {% endfor %}

@@ -14,7 +14,7 @@ theme_highlight_color: "#00838f"
 comments: true
 
 disqus_shortname: geekhaven-blog
-google_analytics:
+google_analytics: UA-82762642-3
 
 share:
   twitter_username: \#
