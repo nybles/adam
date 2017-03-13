@@ -20,40 +20,40 @@ A **hackathon** is an event where all kinds of permutations of programmers, deve
 
 ## How do I benefit from a hackathon?
 I’m gonna list the benefits down for you:  
-1. *** Try something new *** :  
+1. ** Try something new ** :  
 Ever thought of making that app but not having enough people to test it and give you feedback?  Ever thought of making that drone but did not have the motivation or the perfect team to help you out?  
 That is what you get in a hackathon, an opportunity to showcase your skills.
-1. *** Build your network *** :  
+1. ** Build your network ** :  
 A hackathon can be the largest gathering of enthusiasts just like you, eager to try their hands on something new. You get the opportunity to meet up with the big shots of the tech industry, the seasoned bearded developers, and the programmers who wear the same shirt everyday and connect with them.
-1. *** Acquire industry skills ***  :  
+1. ** Acquire industry skills **  :  
 If you’re novice in programming, you’ll learn how to create a project from scratch, chalk out the problem, and present to a panel of judges. You get an opportunity to enhance your team collaboration and presentation skills.  In short, a hackathon prepares you for working in a fast-paced environment and gives industry professionals experience tackling coding challenges.  
 ![Hackathon presentation]({{ site.url }}/assets/hackathon-presentation.jpg)  
 
-1. *** Free food *** :  
+1. ** Free food ** :  
 Now I think I have your attention. Yes, you get free food from _Granola bars_ to _Biryani_ to _Pizzas_ to _Coke_.  
 ![Hackathon food]({{ site.url }}/assets/hackathon-food.jpg)  
 
-1. *** Swags *** :  
+1. ** Swags ** :  
 Okay, you envy that guy roaming around in a _Google_ t-shirt. Come to a hackathon and be prepared to get a ton of stickers, shirts, etc from all the companies you could have only dreamt of.  
 ![Hackathon swags]({{ site.url }}/assets/hackathon-swags.jpg)  
 
-1. *** Work with APIs *** :  
+1. ** Work with APIs ** :  
 Most companies like Twilio, Spotify, etc that partner with hackathons offer their APIs for the hackers to use free of cost.
-1. *** Win *** :  
+1. ** Win ** :  
 I know you just rolled your eyes. Look at the prizes of any hackathon and you’ll definitely want to participate in one. And now you’re thinking, “But there’s no way I’m gonna win!”.   
 Well, there’s only one way to find out isn’t it?
-1. *** Boast *** :  
+1. ** Boast ** :  
 After the hackathon, you get to boast about the swags, the project and the people you met in the hackathon.   
 Heck, you can even turn your project into a full blown product for the world to use!
 
 ## Are there any prerequisites?
 Now this is a very subjective question and depends on the hackathon. Some hackathons require you to be an established developer to even participate. But most hackathons allow amateur developers and programmers who are willing to explore new domains and have some idea and want to try it out.  
 Still, let me list down a few of the prerequisites for you:  
-1. *** Willingness to participate *** :  
+1. ** Willingness to participate ** :  
 Trust me you’re not gonna survive 36 hours of coding, building and brainstorming if you’re not mentally prepared and enthusiastic about the hackathon.
-1. *** Basic technical skills *** :  
+1. ** Basic technical skills ** :  
 You need to make a project with a usable interface so you do need some basic technical skills so that you can learn advanced things during the hackathon and apply them immediately.
-1. *** Urge to win *** :  
+1. ** Urge to win ** :  
 What’s the point of doing anything half-heartedly? Participate to make a mind-blowing project. Participate with the aim of captivating the judges. Participate with the confidence to win.   
 
 So, what are you waiting for?   
