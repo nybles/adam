@@ -7,7 +7,7 @@ author: bytes
 
 We belive that "the whole is larger than the sum of its parts". Hence we invite each and everyone to write an article, by following the procedure given below.
 
-* Fork [this repo](https://github.com/nybles).
+* Fork [this repo](https://github.com/nybles/nybles.github.io/).
 ![forking](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
 * Head towards the [\_posts directory](https://github.com/nybles/nybles.github.io/tree/master/_posts) (on your own fork).
@@ -25,4 +25,4 @@ We belive that "the whole is larger than the sum of its parts". Hence we invite 
 *All the best!*
 
 
-Have further questions? We are always available [here](https://github.com/nybles/issues).
+Have further questions? We are always available [here](https://github.com/nybles/nybles.github.io/issues).
