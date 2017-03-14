@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Creating a post
-permalink: /howto/
-author: bytes
+title: The title for your blog
+author: Your-github-user-name
+categories: the-category-you-want
 ---
 
+# Write your content in markdown here.
 We belive that "the whole is larger than the sum of its parts". Hence we invite each and everyone to write an article, by following the procedure given below.
 
 * Fork [this repo](https://github.com/nybles/nybles.github.io/).
