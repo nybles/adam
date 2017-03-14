@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 .content{
-    letter-spacing: 2px;
-    text-transform: uppercase;
 }
 #preloader {
     position:fixed;
