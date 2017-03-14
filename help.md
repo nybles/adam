@@ -25,4 +25,4 @@ We belive that "the whole is larger than the sum of its parts". Hence we invite 
 *All the best!*
 
 
-Have further questions? We are always available [here](https://github.com/nybles/issues).
+Have further questions? We are always available [here](https://github.com/nybles/nybles.github.io/issues).
