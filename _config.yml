@@ -8,8 +8,8 @@ about: IIIT Allahabad
 baseurl: ""
 url: "https://nybles.github.io/"
 
-theme_color: "#ff5627"
-theme_highlight_color: "#c90036"
+theme_color: "#3b5998"
+theme_highlight_color: "#8b9dc3"
 
 comments: true
 
