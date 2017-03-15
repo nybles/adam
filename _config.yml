@@ -1,9 +1,9 @@
 title: Nybles
 description: Tech Newsletter of IIIT Allahabad
-author: Nybles
+# author: Nybles
 logo: /nybles.github.io/static/logo/avatar.png
 github: https://github.com/nybles
-about: IIIT Allahabad
+# about: IIIT Allahabad
 
 baseurl: ""
 url: "https://nybles.github.io/"
