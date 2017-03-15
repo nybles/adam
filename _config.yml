@@ -10,6 +10,7 @@ url: "https://nybles.github.io/"
 
 theme_color: "#3b5998"
 theme_highlight_color: "#8b9dc3"
+theme_header_color: "#fff"
 
 comments: true
 
