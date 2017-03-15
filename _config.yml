@@ -1,14 +1,14 @@
 title: Nybles
 description: Tech Newsletter of IIIT Allahabad
 author: Nybles
-logo: /nybles.github.io/static/img/avatar.png
+logo: /nybles.github.io/static/logo/avatar.png
 github: https://github.com/nybles
 about: IIIT Allahabad
 
 baseurl: ""
 url: "https://nybles.github.io/"
 
-theme_color: "#006064"
+theme_color: "000000"
 theme_highlight_color: "#00838f"
 
 comments: true
