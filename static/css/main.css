@@ -29,13 +29,13 @@
 .row-details {
     display: inline-block;
     vertical-align: middle;
-    color: #fff;
+    color: #000;
 }
 p.info {
-    color: #fff;
+    color: #000;
 }
 p.info a {
-    color: #fff;
+    color: #000;
     text-decoration: underline;
 }
 .full ul,.full ol {
@@ -99,7 +99,7 @@ li.current-menu-item:before {
     color: #01c87b;
     font-weight: 300;
 }
-h2.blog-title-pro{color: #fff;}
+h2.blog-title-pro{color: #000;}
 h2.blog-title-pro:after {
     content: "";
     display: block;

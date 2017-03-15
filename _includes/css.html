@@ -22,7 +22,7 @@
         <!-- some overrides -->
         <style>
          .header-panel.shadow-z-2 {
-             background-color: {{ site.theme_color }};
+             background-color: {{ site.theme_header_color }};
          }
          body .container .jumbotron-primary, body .container .well-primary, body .container-fluid .jumbotron-primary, body .container-fluid .well-primary {
              background-color: {{ site.theme_color }};
@@ -32,6 +32,9 @@
          }
          a, a:focus, a:hover {
              color: {{ site.theme_color }};
+         }
+         #preloader {
+             background: {{ site.theme_color}}
          }
 
          /* closing #2 */
