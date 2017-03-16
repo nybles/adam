@@ -9,9 +9,9 @@ github: https://github.com/nybles
 baseurl: ""
 url: "https://nybles.github.io/"
 
-theme_color: "#ff5627"
-theme_highlight_color: "#FAB09B"
-theme_header_color: "#fff"
+theme_color: "#d84315"
+theme_highlight_color: "#e95420"
+theme_header_color: "#ffffff"
 
 comments: true
 
