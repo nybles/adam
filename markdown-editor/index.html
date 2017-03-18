@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Markdown Editor</title>
+        <script src="markdown-it.js"></script>
+        <script src="markdown-it-footnote.js"></script>
+        <script src="highlight.pack.js"></script>
+        <script src="emojify.js"></script>
+        <script src="codemirror/lib/codemirror.js"></script>
+        <script src="codemirror/overlay.js"></script>
+        <script src="codemirror/xml/xml.js"></script>
+        <script src="codemirror/markdown/markdown.js"></script>
+        <script src="codemirror/gfm/gfm.js"></script>
+        <script src="codemirror/javascript/javascript.js"></script>
+        <script src="codemirror/css/css.js"></script>
+        <script src="codemirror/htmlmixed/htmlmixed.js"></script>
+        <script src="codemirror/lib/util/continuelist.js"></script>
+        <script src="rawinflate.js"></script>
+        <script src="rawdeflate.js"></script>
+        <link rel="stylesheet" href="base16-light.css">
+        <link rel="stylesheet" href="codemirror/lib/codemirror.css">
+        <link rel="stylesheet" href="default.css">
+
+        <!-- Custom Fonts -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+
+        <!-- FontAwesome icons -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/74dfc6cf47.css">
+
+        <!-- Core BootStrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <!-- Material Design CSS -->
+        <link rel="stylesheet" href="https://nybles.github.io/static/css/bootstrap-material-design.min.css">
+        <!-- Material Design JS -->
+        <script src="https://nybles.github.io/static/js/jquery.min.js"></script>
+        <script src="https://nybles.github.io/static/js/material.min.js"></script>
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="https://nybles.github.io/static/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="https://nybles.github.io/static/css/thickbox.css">
+        <link rel="stylesheet" href="https://nybles.github.io/static/css/projects.css">
+        <link rel="stylesheet" href="https://nybles.github.io/static/css/main.css">
+        <link rel="stylesheet" href="https://nybles.github.io/static/css/loader.css">
+
+        <link rel="stylesheet" href="editor.css">
+    </head>
+    <body class="home overflow-hidden">
+
+        <!-- this is the editor form with contents as blogTitle, authorName, categories, blogContent (code) -->
+        <form method="post" action="cgi-bin/check.py" id="editorForm">
+
+            <div class="header-panel shadow-z-2" id="header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="row-picture">
+                                <img id="about" class="logo-img" src="https://nybles.github.io/static/logo/Logo_2_transparent.png">
+                            </div>
+                            <div class="row-details">
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-12 from-group">
+                            <label for="Title"></label>
+                            <input name="title" class="blog-title-pro form-control" id="blogTitle" type="text" placeholder="Title" required />
+                            <p class="info">By <input name="author" class="form-control" id="blogAuthor" type="text" placeholder="Author" required />
+                                <br>
+                                <span class="categories">
+                                    Categories:
+                                    &raquo;
+                                    <input name="categories" class="form-control" id="categories" type="text" placeholder="Comma separated categories" required />
+                                </span>
+                                <br>
+                            </p>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-12 form-group">
+                            <button type="submit" id="submitBtn" class="btn form-control">Submit</button>
+                            <button id="saveBtn" class="btn form-control">Save</button>
+                            <span class="togglebutton">
+                                <label>
+                                    Editor &nbsp; &nbsp;
+                                    <input id="toggleEditorBtn" type="checkbox" checked="true">
+                                    <span class="toggle"></span>
+                                </label>
+                            </span>
+                            <span class="togglebutton">
+                                <label>
+                                    Preview
+                                    <input id="togglePreviewBtn" type="checkbox" checked="true">
+                                    <span class="toggle"></span>
+                                </label>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+
+            <div class="container">
+                <div id="in" class="col-md-6 col-sm-12 col-xs-12">
+                    <textarea id="code" name="content" required >
+# (GitHub-Flavored) Markdown Editor
+
+Basic useful feature list:
+
+* Ctrl+S / Cmd+S to save the file
+* Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML
+* Drag and drop a file into here to load it
+* File contents are saved in the URL so you can share files
+
+
+I'm no good at writing sample / filler text, so go write something yourself.
+
+Look, a list!
+
+* foo
+* bar
+* baz
+
+And here's some code! :+1:
+
+```javascript
+$(function(){
+$('div').html('I am a div.');
+});
+```
+
+This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
+
+
+Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
+the inspiration to this, and some handy implementation hints, came.
+
+### Stuff used to make this:
+
+* [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
+* [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
+* [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
+* [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+                    </textarea>
+                </div>
+                <div id="out" class="col-md-6 col-sm-12 col-xs-12"></div>
+            </div>
+
+        </form>
+        <script src="editor.js"></script>
+    </body>
+</html>
