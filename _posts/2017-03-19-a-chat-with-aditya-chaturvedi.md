@@ -9,7 +9,7 @@ categories: alumni
 
 **Please tell us about yourself!**
 
-Hello, I am Aditya Chaturvedi. I am a IIITA alumnus from 2015 batch. I was from Information Technology batch. During my college days, people knew me more as the guy to call when the internet doesn’t work. Gaming community knew me as F@LCON. Currently, I am working as a ***Software Engineer for Amazon in Bangalore***.
+ Hello, I am Aditya Chaturvedi. I am a IIITA alumnus from 2015 batch. I was from Information Technology batch. During my college days, people knew me more as the guy to call when the internet doesn’t work. Gaming community knew me as F@LCON. Currently, I am working as a ***Software Engineer for Amazon in Bangalore***.
 
 
 **What was your first impression about the college?**
