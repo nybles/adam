@@ -49,9 +49,12 @@
                     {% endif %}
                     {% endif %}
                 </p>
+
+                <!-- This is Search Box form code. It sends requests to search.html located in main directory .. whiach then uses two JS files names search.js and lunr.min.js and returns search results-->
+
                 <div class="input-group col-xs-4 col-xs-offset-8">
                     <form action="/search.html" method="get" class="form-group" style="display: inherit">
-                        <input type="search" id="search-box" name="query" class="form-control" style="display: inline-block" placeholder="Search for..." />
+                        <input type="search" id="search-box" name="query" class="form-control" style="display: inline-block" placeholder="To search.." />
                         <div class="input-group-btn" style="text-decoration: underline">
                             <button class="btn btn-default" type="submit" style="padding: 10px">
                                 <i class="fa fa-search"></i>
@@ -59,6 +62,7 @@
                         </div>
                     </form>
                 </div>
+
             </div>
         </div>
     </div>

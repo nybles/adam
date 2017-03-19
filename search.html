@@ -2,13 +2,18 @@
 layout: default
 title: Search-Results
 ---
+
+<!-- This form was shifted and added in Header.html for global availability-->
+
 <!--form action="/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
 </form-->
 
-<ul id="search-results"></ul>
+<div class="well">       
+  <div id="search-results"></div>
+</div>
 
 <script>
   window.store = {
@@ -24,5 +29,8 @@ title: Search-Results
     {% endfor %}
   };
 </script>
+
+<!-- Scripts for Search plugin located in static/js -->
+
 <script src="static/js/lunr.min.js"></script>
 <script src="static/js/search.js"></script>
