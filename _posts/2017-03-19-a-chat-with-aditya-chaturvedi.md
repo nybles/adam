@@ -19,7 +19,6 @@ For me the best experiences in college involved sitting on the divider which ran
 
 **What was the best thing you did in college which helped you grow in your line of work?**
 
-<img align="right" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/577389_614030262021205_584297965_n.jpg?oh=968dc9e6438730bc847ef447582ca4c6&oe=5967ED38">
 One thing I always wanted is to **learn things that help me bring my ideas to life**. This aspiration quickly lead to me learn web development when I joined college. After class hours, I used to spend few hours everyday to learn HTML and PHP and soon I was creating my own website, writing small apps, a dummy twitter etc. 
 
 This aspiration grew more when I started understanding how I can share my creations with other people. This lead me to become curious about web servers which subtly drove me into the field of networking. I joined the INDEM club and learned as much I could on how the Internet works. Along with this, I was also a member of Geekhaven which provided me a platform to write apps for various events around the year specially during effervescence. This exercise of applying computer science to make products soon became a habit. 
@@ -27,6 +26,8 @@ This aspiration grew more when I started understanding how I can share my creati
 I started looking for applications for things I read and learn which made learning far interesting. Whether it be Software Engineering or Automata, my primary goal used to be to understand where and how it will be useful. Till day this practice helps me in my day to day work. A few days back I used state machines in automata to help explain User interface interaction design to an intern I am mentoring at work.
 
 During exams, I never bothered to finish the course. On retrospect, this turned out to be fruitful because I gave sufficient time to comprehend whatever I studies before moving on to the next topic.
+
+<img align="right" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/577389_614030262021205_584297965_n.jpg?oh=968dc9e6438730bc847ef447582ca4c6&oe=5967ED38">
 
 **How was your learning experience in GSOC?**
 
@@ -58,11 +59,11 @@ What engineering college quickly teaches a person is that one does not need a te
 
 **Things you shouldn’t miss in college?**
 
-
-<img align="right" height="720" width="960" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/1380248_553871524703746_1615441057_n.jpg?oh=504e43b544736610ad4e7db8a263993a&oe=596209B6">
 Fun. Fun. Fun. And I cannot emphasise it enough, Fun is a no miss. College life is special and short. Use your time judiciously. Memories and friends last longer than few extra pointers. Find your friends, your passion and most important yourself. College is a time to explore and break free.
 
 Do things you always want to do. Gain different kinds of experiences, learn new things, meet new people, understand them and their ideas. Use your college to not only grow vertically but as well horizontally. A balanced approach in college will prepare you well for the future. Do not over do anything. Also, don’t waste your college time intoxicated, it is already very short.
+
+<img align="right" height="720" width="960" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/1380248_553871524703746_1615441057_n.jpg?oh=504e43b544736610ad4e7db8a263993a&oe=596209B6">
 
 **What is your next career goal?**
 
