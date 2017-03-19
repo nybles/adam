@@ -5,13 +5,10 @@ author: Aditya Chaturvedi
 categories: alumni
 ---
 
-![Aditya Chaturvedi](https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-0/p206x206/15697606_1241292349294990_3376205851355482696_n.jpg?oh=e66a334c91af898f6c3f0bb870852745&oe=592BFC5D)
-
-
 **Please tell us about yourself!**
 
+<img align="right" src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-0/p206x206/15697606_1241292349294990_3376205851355482696_n.jpg?oh=e66a334c91af898f6c3f0bb870852745&oe=592BFC5D">
 Hello, I am Aditya Chaturvedi. I am a IIITA alumnus from 2015 batch. I was from Information Technology batch. During my college days, people knew me more as the guy to call when the internet doesn’t work. Gaming community knew me as F@LCON. Currently, I am working as a ***Software Engineer for Amazon in Bangalore***.
-
 
 **What was your first impression about the college?**
 
@@ -30,6 +27,9 @@ This aspiration grew more when I started understanding how I can share my creati
 I started looking for applications for things I read and learn which made learning far interesting. Whether it be Software Engineering or Automata, my primary goal used to be to understand where and how it will be useful. Till day this practice helps me in my day to day work. A few days back I used state machines in automata to help explain User interface interaction design to an intern I am mentoring at work.
 
 During exams, I never bothered to finish the course. On retrospect, this turned out to be fruitful because I gave sufficient time to comprehend whatever I studies before moving on to the next topic.
+
+<img align="right" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/577389_614030262021205_584297965_n.jpg?oh=968dc9e6438730bc847ef447582ca4c6&oe=5967ED38">
+Aditya Chaturevdi And His Team Conducted IIITA's First Mozcafe
 
 **How was your learning experience in GSOC?**
 
@@ -65,6 +65,9 @@ Fun. Fun. Fun. And I cannot emphasise it enough, Fun is a no miss. College life 
 
 Do things you always want to do. Gain different kinds of experiences, learn new things, meet new people, understand them and their ideas. Use your college to not only grow vertically but as well horizontally. A balanced approach in college will prepare you well for the future. Do not over do anything. Also, don’t waste your college time intoxicated, it is already very short.
 
+<img align="right" height="720" width="960" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/1380248_553871524703746_1615441057_n.jpg?oh=504e43b544736610ad4e7db8a263993a&oe=596209B6">
+Sunburn At effe 2K14
+ 
 **What is your next career goal?**
 
 I haven’t planned anything as of now for my next career goal. Frankly, planning is a myth for me. My long term dream is to start a company of my own and I believe the dots will just connect somehow. Entrepreneurship is inline with my approach to look to bring ideas to life. Another reason for going towards this path is the gut feeling I have towards doing something which helps take the country forward.
