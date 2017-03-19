@@ -3,6 +3,7 @@ Thanks for making this contribution. :blush:
 People like you maintain the spirit of community work. :clap:
 
 However to make sure that things don't break, please make following checks.
+* Read the [contribution guidelines](https://github.com/nybles/nybles.github.io/blob/master/CONTRIBUTING.md).
 * Any UI changes should follow Material design principles. [reference](http://fezvrasta.github.io/bootstrap-material-design/)
 * Make sure the site is working fine after your commits. [Running Jekyll locally](https://jekyllrb.com/docs/quickstart/)
 
