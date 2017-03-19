@@ -4,7 +4,7 @@ title: A chat with Aditya Chaturvedi, Alumnus, GSoC '14, Amazon
 author: Aditya Chaturvedi
 categories: alumni
 ---
-
+<p align="right">
 ![Aditya Chaturvedi](https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-0/p206x206/15697606_1241292349294990_3376205851355482696_n.jpg?oh=e66a334c91af898f6c3f0bb870852745&oe=592BFC5D)
 
 
@@ -16,6 +16,7 @@ Hello, I am Aditya Chaturvedi. I am a IIITA alumnus from 2015 batch. I was from 
 **What was your first impression about the college?**
 
 The first time when I arrived in college, I was fascinated by the campus. The buildings, the well maintained gardens, the hostel, it all felt amazing. Just in a few days, I fell in love with the atmosphere around. It was first time I was interacting with people from different places in India and being part of the community felt great.
+</p>
 
 **Best experience in college?**
 
