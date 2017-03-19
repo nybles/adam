@@ -1,4 +1,5 @@
-Thanks for making this contribution. :smile:
+Thanks for making this contribution. :blush:
+
 People like you maintain the spirit of community work. :clap:
 
 However to make sure that things don't break, please make following checks.
