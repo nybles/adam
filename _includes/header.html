@@ -14,14 +14,14 @@
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                         <span class="sr-only">Toggle navigation</span>
                         <i class="fa fa-2x fa-bars"></i>
-                    </button>                
+                    </button>
                 </div>
             </div>
 
             <div class="col-md-9 col-sm-8 col-xs-12">
                 <h2 class="blog-title-pro">{{ page.title }}</h2>
                 {% if page.author %}
-                <p class="info">By 
+                <p class="info">By
                     <!--<a href="https://github.com/{{ page.author }}" target="_blank">-->
                     {{ page.author }}</p>
                 {% endif %}
@@ -41,45 +41,50 @@
                     {% endif %}
 
                     {% if page.content and page.layout == "post" %}
-                        {% assign words = page.content | number_of_words %}
-                        {% if words < 360 %}
-                            1 minute read
-                        {% else %}
-                            {{ words | divided_by:180 }} minutes read
-                        {% endif %}
+                    {% assign words = page.content | number_of_words %}
+                    {% if words < 360 %}
+                    1 minute read
+                    {% else %}
+                    {{ words | divided_by:180 }} minutes read
+                    {% endif %}
                     {% endif %}
                 </p>
+
+                <!-- This is Search Box code. It sends requests to search.html located in main directory .. which then uses two JS files names search.js and lunr.min.js and returns search results-->
+
                 <div class="input-group col-xs-4 col-xs-offset-8">
-                    <form action="/search.html" method="get"> 
-                      <input type="text" id="search-box" name="query" class="form-control" placeholder="Search for...">
+                    <form action="/search.html" method="get" class="form-group" style="display: inherit">
+                        <input type="search" id="search-box" name="query" class="form-control" style="display:inline-block" placeholder=" Search.." />
+                        <div class="input-group-btn" style="text-decoration: underline">
+                            <button class="btn btn-default" type="submit" style="padding: 10px">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </div>
                     </form>
-                    <span class="input-group-btn">
-                        <button class="btn btn-default" type="submit">Search</button>
-                    </span>                   
-                </div>
+                </div><!-- End of seach box-->
             </div>
         </div>
     </div>
-	<di id="fb-root"></div>
-             <script>(function(d, s, id) {
+    <di id="fb-root"></div>
+        <script>(function(d, s, id) {
              var js, fjs = d.getElementsByTagName(s)[0];
              if (d.getElementById(id)) return;
              js = d.createElement(s); js.id = id;
              js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=652249844976841";
              fjs.parentNode.insertBefore(js, fjs);
-             }(document, 'script', 'facebook-jssdk'));</script>
-	     <svg height="0" width="0">
-             <filter id="fb-filter">
-             <feColorMatrix type="hueRotate" values="125"/>
-             </filter>
-             </svg>
-             <style>
-             .fb-like, .fb-send, .fb-share-button {
-             -webkit-filter: url(#fb-filter); 
+         }(document, 'script', 'facebook-jssdk'));</script>
+        <svg height="0" width="0">
+            <filter id="fb-filter">
+                <feColorMatrix type="hueRotate" values="125"/>
+            </filter>
+        </svg>
+        <style>
+         .fb-like, .fb-send, .fb-share-button {
+             -webkit-filter: url(#fb-filter);
              position: absolute;
-    right: 0px;
-		     filter: url(#fb-filter);
-             }
-             </style>
-	<div class="fb-like" data-href="https://www.facebook.com/nyblenews/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+             right: 0px;
+             filter: url(#fb-filter);
+         }
+        </style>
+        <div class="fb-like" data-href="https://www.facebook.com/nyblenews/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 </div>
