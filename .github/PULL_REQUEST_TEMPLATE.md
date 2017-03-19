@@ -1,5 +1,5 @@
-Thanks for making this contribution.
-People like you maintain the spirit of community work.
+Thanks for making this contribution. :smile:
+People like you maintain the spirit of community work. :clap:
 
 However to make sure that things don't break, please make following checks.
 * Any UI changes should follow Material design principles. [reference](http://fezvrasta.github.io/bootstrap-material-design/)
@@ -8,9 +8,9 @@ However to make sure that things don't break, please make following checks.
 Link of your fork to view changes: *Enter github.io link here*
 
 Any [issue](https://github.com/nybles/nybles.github.io/issues) your want to refer to?
-# * issue number *
+*# issue number *
 
 Briefly describe what changes you made:
-*
-*
-*
+* 
+* 
+* 
