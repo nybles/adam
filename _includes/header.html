@@ -15,8 +15,27 @@
                         <span class="sr-only">Toggle navigation</span>
                         <i class="fa fa-2x fa-bars"></i>
                     </button>
+
+                    <!--form action="/search.html" method="get">
+                      <label for="search-box">Search</label>
+                      <input type="text" id="search-box" name="query">
+                      <input type="submit" value="search">
+                    </form-->                    
                 </div>
             </div>
+
+                
+                    <!--form action="/search.html" method="get"> 
+                      <div class="col-xs-4 col-xs-offset-6">
+                        <div class="input-group">
+                          <input type="text" id="search-box" name="query" class="form-control" placeholder="Search for...">
+                          <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit">Go!</button>
+                          </span>
+                        </div>
+                      </div>
+                    </form-->
+
             <div class="col-md-9 col-sm-8 col-xs-12">
                 <h2 class="blog-title-pro">{{ page.title }}</h2>
                 {% if page.author %}
@@ -48,6 +67,15 @@
                         {% endif %}
                     {% endif %}
                 </p>
+                <div class="input-group col-xs-4 col-xs-offset-8">
+                    <form action="/search.html" method="get"> 
+                    <input type="text" id="search-box" name="query" class="form-control" placeholder="Search for...">
+                    </form>
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="submit">Search</button>
+                    </span>
+                   
+                </div>
             </div>
         </div>
     </div>
