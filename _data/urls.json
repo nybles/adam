@@ -20,6 +20,11 @@
         "url": "/howto",
         "icon": "fa-plus"
     },
+    {
+        "text": "Editor",
+        "url": "https://nybles.github.io/markdown-editor",
+        "icon": "fa-pencil-square-o"
+    },
      {
         "text": "Categories",
         "url": "/category/future",
@@ -29,10 +34,5 @@
         "text": "Github",
         "url": "https://github.com/nybles/",
         "icon": "fa-github"
-    },
-    {
-        "text": "Editor",
-        "url": "https://nybles.github.io/markdown-editor",
-        "icon": "fa-pencil-square-o"
     },
 ]
