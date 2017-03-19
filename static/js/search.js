@@ -7,8 +7,6 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        /*appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-        appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';*/
 
         appendString += '<div class="list-group"><div class="list-group-item"><div class="row-action-primary"><i class="fa fa-sticky-note"></i></div><div class="row-content"><h4 class="list-group-item-heading"><a href="' + item.url + '">' + item.title + '</a> </h4>';
             
