@@ -60,7 +60,7 @@ What engineering college quickly teaches a person is that one does not need a te
 **Things you shouldn’t miss in college?**
 
 
-<img align="right" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/1380248_553871524703746_1615441057_n.jpg?oh=504e43b544736610ad4e7db8a263993a&oe=596209B6">
+<img align="right" height="960" width="720" src="https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/1380248_553871524703746_1615441057_n.jpg?oh=504e43b544736610ad4e7db8a263993a&oe=596209B6">
 Fun. Fun. Fun. And I cannot emphasise it enough, Fun is a no miss. College life is special and short. Use your time judiciously. Memories and friends last longer than few extra pointers. Find your friends, your passion and most important yourself. College is a time to explore and break free.
 
 Do things you always want to do. Gain different kinds of experiences, learn new things, meet new people, understand them and their ideas. Use your college to not only grow vertically but as well horizontally. A balanced approach in college will prepare you well for the future. Do not over do anything. Also, don’t waste your college time intoxicated, it is already very short.
