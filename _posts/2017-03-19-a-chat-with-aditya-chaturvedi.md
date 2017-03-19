@@ -4,11 +4,9 @@ title: A chat with Aditya Chaturvedi, Alumnus, GSoC '14, Amazon
 author: Aditya Chaturvedi
 categories: alumni
 ---
-
-<img align="left" src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-0/p206x206/15697606_1241292349294990_3376205851355482696_n.jpg?oh=e66a334c91af898f6c3f0bb870852745&oe=592BFC5D">
-
 **Please tell us about yourself!**
 
+<img align="left" src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-0/p206x206/15697606_1241292349294990_3376205851355482696_n.jpg?oh=e66a334c91af898f6c3f0bb870852745&oe=592BFC5D">
  Hello, I am Aditya Chaturvedi. I am a IIITA alumnus from 2015 batch. I was from Information Technology batch. During my college days, people knew me more as the guy to call when the internet doesn’t work. Gaming community knew me as F@LCON. Currently, I am working as a ***Software Engineer for Amazon in Bangalore***.
 
 
@@ -22,6 +20,7 @@ For me the best experiences in college involved sitting on the divider which ran
 
 **What was the best thing you did in college which helped you grow in your line of work?**
 
+<img align="right" src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-0/p206x206/15697606_1241292349294990_3376205851355482696_n.jpg?oh=e66a334c91af898f6c3f0bb870852745&oe=592BFC5D">
 One thing I always wanted is to **learn things that help me bring my ideas to life**. This aspiration quickly lead to me learn web development when I joined college. After class hours, I used to spend few hours everyday to learn HTML and PHP and soon I was creating my own website, writing small apps, a dummy twitter etc. 
 
 This aspiration grew more when I started understanding how I can share my creations with other people. This lead me to become curious about web servers which subtly drove me into the field of networking. I joined the INDEM club and learned as much I could on how the Internet works. Along with this, I was also a member of Geekhaven which provided me a platform to write apps for various events around the year specially during effervescence. This exercise of applying computer science to make products soon became a habit. 
