@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A chat with Aditya Chaturvedi, Alumnus, GSoC '14, Amazon 
-author: Aditya Chaturvedi
-categories: alumni
+author: Gautham Santhosh
+categories: campus
+intro: An alumnus from 2015, Currently working for Amazon in Bangalore.
 ---
 
 **Please tell us about yourself!**
