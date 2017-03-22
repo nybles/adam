@@ -4,6 +4,12 @@
     padding: 50px 0 15px 0;
     width: 100%;
 }
+
+#post-icons{
+    background: black;
+    color: white;
+}
+
 .full{ font-size: 16px; }
 .logo-img {
     width: 200px;
