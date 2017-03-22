@@ -1,5 +1,6 @@
 Nybles is the Tech newletter for IIIT-Allahabad. 
 
+[![Join the chat at https://gitter.im/nyblenews/Lobby](https://badges.gitter.im/nyblenews.svg)](https://gitter.im/nyblenews?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 We invite posts from everyone.
 
 ## Post layout
