@@ -41,12 +41,12 @@
                     {% endif %}
 
                     {% if page.content and page.layout == "post" %}
-                    {% assign words = page.content | number_of_words %}
-                    {% if words < 360 %}
-                    1 minute read
-                    {% else %}
-                    {{ words | divided_by:180 }} minutes read
-                    {% endif %}
+                        {% assign words = page.content | number_of_words %}
+                        {% if words < 360 %}
+                            1 minute read
+                        {% else %}
+                            {{ words | divided_by:180 }} minutes read
+                        {% endif %}
                     {% endif %}
                 </p>
 
