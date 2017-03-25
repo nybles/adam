@@ -1,5 +1,6 @@
 Nybles is the Tech newletter for IIIT-Allahabad. 
 
+[![Join the chat at https://gitter.im/nyblenews/Lobby](https://badges.gitter.im/nyblenews.svg)](https://gitter.im/nyblenews?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 We invite posts from everyone.
 
 ## Post layout
@@ -63,7 +64,7 @@ Here's the clue for hackers:
 
 ## Prerequisites
 ### Mac OSX/Linux
-OpenCode is built with [jekyll](https://jekyllrb.com/) which comes as a ruby gem. So you need to install Ruby to get started.
+Jekyll is built with [jekyll](https://jekyllrb.com/) which comes as a ruby gem. So you need to install Ruby to get started.
 
 [RVM](https://rvm.io/) make it easy to install and manage different versions of Ruby. Install Ruby using RVM by running the following commands
 
