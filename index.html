@@ -8,7 +8,7 @@ title: Bytes
       {% for post in paginator.posts %}
       <div class="list-group-item">
         <div class="row-action-primary">
-          <i class="fa fa-sticky-note"></i>
+          <i id ="post-icons" class="large material-icons">content_paste</i>
         </div>
         <div class="row-content">
           <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h4>
