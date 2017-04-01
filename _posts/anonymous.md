@@ -1,4 +1,8 @@
-# THE ANONYMOUS
+---
+title: Hackers who changed the World
+categories: trending
+author: Elaine Mary Rose
+---
 
 In today's technological age, where harldy anything can be considered safe, it has become far easier to break into someone’s personal zone. By personal, we do 
 not just mean the social media. The world wide web which has become the hub of storing and restoring information, considered to be
@@ -96,3 +100,7 @@ Here is a compilation of a few hackers (or the whiz kids) who put the world in a
     
    **_Aaron Swartz is a hacker that truly changed the world and helped sculpt the culture of the Internet as we know it today!_**
    
+## Movies to watch
+- [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)
+- [Internets Own Boy Aaron Swartz](http://www.imdb.com/title/tt3268458/)
+- [More movies for hackers](https://github.com/k4m4/movies-for-hackers)
