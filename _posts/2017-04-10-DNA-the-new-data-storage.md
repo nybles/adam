@@ -2,7 +2,7 @@
 layout: post
 title:  "DNA: The new data storage"
 author: Ravicharan
-categories: technology
+categories: future
 ---
 
 ![DNA](./assets/dna.jpg)
