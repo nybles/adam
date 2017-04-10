@@ -60,7 +60,6 @@ try:
     response["filename"] = filename
     target = os.path.join(target_directory, filename)
     currentDb = getSubmissions()
-    currentDb = {}
     currentDb[filename] = response
     saveSubmissions(currentDb)
 
