@@ -5,7 +5,7 @@ author: Ravicharan
 categories: future
 ---
 
-![DNA](./assets/dna.jpg)
+![DNA]({{ site.url }}/assets/dna.jpg)
 
 Have you ever wondered whether you yourself can be a massive data storage centre. Did you know that one gram of your DNA can store the whole internet in it? Nature's code for life is stored in DNA, but what if we could code anything we wanted into DNA? Scientists from Microsoft and the University of Washington have reached an early but important milestone in synthetic DNA storage by storing 200 megabytes of data on the molecular strands.
 
