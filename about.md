@@ -10,7 +10,7 @@ author: Gautham Santhosh
 We live in a world of social networking. We have a vast abundance of information in front of us each day. In fact the information we have is so much that we often forget what is important. 
 We would like to change this. By providing a medium which filters out the essence of what’s happening around you, we bring you the raw news. 
 
-Nybles is an ambitious idea to bring forward the tech happenings around you.
+Nybles is an ambitious idea to bring forward the tech happenings around you. :+1:
 
 # Nybles
 
