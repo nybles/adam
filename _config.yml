@@ -33,3 +33,5 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+theme: jekyll-theme-cayman
