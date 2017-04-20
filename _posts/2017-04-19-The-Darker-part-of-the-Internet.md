@@ -1,7 +1,9 @@
-+ layout: post
-+ title: The Darker part of Internet 
-+ author: Niharika Shrivastava
-+ categories: trending
+---
+layout: post
+title: The Darker part of Internet 
+author: Niharika Shrivastava
+categories: trending
+---
 
  Have you ever wanted to browse the Internet anonymously? The truth is that browser settings such as **incognito mode** or **private window** don’t quite cut it. While these modes do allow no caches or cookies saved, in the internet world, you aren’t living your **anonymous** status right.
 
