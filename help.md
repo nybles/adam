@@ -13,7 +13,7 @@ author: bytes
 
 * Click on **[Editor](https://nybles.github.io/markdown-editor)** on left Navigation bar.
 * Write your Article in our interactive editor in markdown format and see your output file on right side of editor.
-	* To know more about markdown syntaxes Click: **[Markdown Cheatsheet]**(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* To know more about markdown syntaxes Click: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) .
 * Fill out all details such as **Author**, **Categories** and **Title** in the text boxes provided.
 * Do not leave any field empty.
 * Once you are done. Press **Submit** Button. 
