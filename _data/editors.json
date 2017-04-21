@@ -15,6 +15,14 @@
     "fb": "https://facebook.com/sulyabtv",
     "dept": "Future Tech"
   },
+ {
+    "name": "Pratyush Singh",
+    "image": "pratyush.jpg",
+    "url": "https://thedelicateaustere.wordpress.com/",
+    "gh": "https://github.com/",
+    "fb": "https://www.facebook.com/pratyushsingh237",
+    "dept": "Campus"
+  },
   {
     "name": "Faheem Zunjani",
     "image": "faheem.jpg",
@@ -23,4 +31,5 @@
     "fb": "https://www.facebook.com/faheemzunjani",
     "dept": "Trending"
   }
+
 ]
