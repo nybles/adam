@@ -18,7 +18,7 @@ If you want real anonymity, you’re going to want to use Tor, formerly known as
  Your traffic is routed from your computer and through an onion-like layer of servers.
 ![Tor](https://stardiariesweb.files.wordpress.com/2017/04/tor.jpg)
 
- The dark web holds everything sweet and sour. Many websites in the deep web are not legal to visit (child pornography, snuff films, torture flicks, etc. ). These websites often change addresses frequently, and quite a bit of effort must be taken in order to find them. Because of the nature of these websites, their visitors are monitored. Although law enforcement may do their best to have these websites shut down, the deep web is under no legal jurisdiction (hence, the reason for the deep web’s existence).
+ The dark web holds everything sweet and sour. Many websites in the deep web are not legal to visit (child pornography, snuff films, torture flicks, etc. ). These websites often change addresses frequently, and quite a bit of effort must be taken in order to find them. Because of the nature of these websites, their visitors are monitored. Although law enforcement may do their best to have these websites shut down, the deep web is under no legal jurisdiction (hence, the reason for the deep web’s existence). Search engines used here are DuckDuckGo and Torch ( to throw some light in the dark web).
 
  The largest darknet market remains the The Silk Road 3.0, the ‘**eBay of drugs**’ being an anonymous platform for selling illegal drugs. What sustains these markets’ existence is – BITCOINS.
 
@@ -26,14 +26,15 @@ If you want real anonymity, you’re going to want to use Tor, formerly known as
 
  Bitcoin is both a crypto-currency and an electronic payment system invented by an unidentified programmer, or group of programmers, under the name of Satoshi Nakamoto.
 
- But here’s the catch! It’s value is highly dynamic in nature, or as experts like to say- a bubble.
+ But here’s the catch! It’s value is highly dynamic in nature, or as experts like to say- a bubble. Get some for yourself right here ! 
+ http://www.wikihow.com/Get-Bitcoins
 
 ![Bitcoins](https://stardiariesweb.files.wordpress.com/2017/04/capture.png)
 
-All in all, if the purpose of using the dark web is purely curiosity, you’re a lot safer than most of us (not true 😛 ). Get ready to come across real drug dealers, ISIS cult, hitmans for takeaways and people selling just carrots only to obtain some bitcoins! Bitcoins can be very handy for direct online transactions and the deep web holds very useful data in certain directories :-
+All in all, if the purpose of using the dark web is purely curiosity, you’re a lot safer than most of us (not true 😛 ). Register on Silk Route 3.0 and get ready to come across real drug dealers, ISIS cult, hitmans for takeaways and people selling just carrots only to obtain some bitcoins! Bitcoins can be very handy for direct online transactions and the deep web holds very useful data in certain directories :-
 
-    * Hidden Wiki | Tor .onion urls directories
-    * HiddenWiki Deep Web Links
+    * Hidden Wiki | Tor .onion urls directories - http://www.thehiddenwiki.org/
+    * HiddenWiki Deep Web Links - http://the-hidden-wiki.com/
     * The uncensored hidden wiki is up: http://kpvz7kpmcmne52qf.onion/wiki/index.php/Main_Page • /r/TOR
 
  But again, the deep web is not a tourist place. Stay anonymous, stay safe.
