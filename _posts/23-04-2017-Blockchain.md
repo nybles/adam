@@ -1,4 +1,4 @@
-# BLOCKCHAIN : The Technology Of The Years To Come
+# BLOCKCHAIN , The Technology Of The Years To Come
 
 ![Blockchain](https://i1.wp.com/www.indianweb2.com/wp-content/uploads/2016/10/blockchain.jpg?resize=700%2C352)
 
