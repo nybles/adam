@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  DIvanshu Garg,Alumni, Google Mountain View,ACM ICPC
+title:  A Chat with Divanshu Garg ,Alumni, Google Mountain View,ACM ICPC
 author: Gautham Santhosh
 categories: campus
 ---
