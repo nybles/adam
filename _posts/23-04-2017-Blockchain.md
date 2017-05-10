@@ -1,4 +1,9 @@
-# BLOCKCHAIN , The Technology Of The Years To Come
+---
+layout: post
+title:   BLOCKCHAIN , The Technology Of The Years To Come
+author: Elaine Mary
+categories: trending
+---
 
 ![Blockchain](https://i1.wp.com/www.indianweb2.com/wp-content/uploads/2016/10/blockchain.jpg?resize=700%2C352)
 
