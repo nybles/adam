@@ -1,5 +1,6 @@
 <div class="header-panel shadow-z-2">
     <div class="container">
+
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="row-picture">
@@ -17,14 +18,18 @@
                     </button>
                 </div>
             </div>
+              
 
             <div class="col-md-9 col-sm-8 col-xs-12">
                 <h2 class="blog-title-pro">{{ page.title }}</h2>
+
                 {% if page.author %}
                 <p class="info">By
                     <!--<a href="https://github.com/{{ page.author }}" target="_blank">-->
                     {{ page.author }}</p>
                 {% endif %}
+
+
                 <p class="info">
                     {% if page.date %}
                     <span class="time">{{ page.date | date_to_string }}</span>
@@ -49,6 +54,44 @@
                         {% endif %}
                     {% endif %}
                 </p>
+
+            <!-- Button trigger modal -->
+               <div class="col-md-2 col-md-offset-9" style="">
+            <button type="button" class="btn btn-raised btn-warning btn-lg" data-toggle="modal" data-target="#myModal">
+              Subscribe
+            </button>
+            </div>
+            
+            <div class="modal" id="myModal">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title" style="color: orange;">Subscribe To Nybles</h4>
+                  </div>
+                  <div class="modal-body">
+
+                    <p class="text-center"> Please Drop your email here to remain up-to-date with nybles newsletter </p>
+
+                        <form class="form-horizontal" method="POST" action="http://pradeep39.pythonanywhere.com/">
+                            <div class="form-group">
+                              <label for="inputEmail" class="col-md-2 control-label">Email</label>
+
+                              <div class="col-md-10">
+                                <input type="email" class="form-control" id="inputEmail" placeholder="Email" name="email" required>
+                              </div>
+                            </div>
+
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Not Now</button>
+                    <button type="submit" class="btn btn-success">Submit</button>
+                  </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            </div>
+
 
                 <!-- This is Search Box code. It sends requests to search.html located in main directory .. which then uses two JS files names search.js and lunr.min.js and returns search results-->
 
