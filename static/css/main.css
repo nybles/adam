@@ -188,3 +188,38 @@ footer {
     margin:  0 !important;
     padding: 0 !important;
 }
+
+/* Subscribe Button CSS*/
+
+#subscribe{
+    position: fixed;
+    bottom: 5px; 
+    right: 0px;
+}
+
+    @media only screen and (min-width : 320px) {
+        #subscribe{
+              width: 35.66%;
+          }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+        #subscribe{
+            width: 24.66%;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+        #subscribe{
+            width: 20.66%;
+        }
+    }
+
+    @media only screen and (min-width : 992px){
+        #subscribe{    
+            width: 13.66%;
+        }
+    }
+/*Subscribe button CSS*/
