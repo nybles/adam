@@ -197,6 +197,22 @@ footer {
     right: 0px;
 }
 
+#subsbutton{
+    background-color: #d84315;
+}
+
+#subsbutton:hover { 
+    background-color: #ff5722;
+}
+
+#subsnotnow:hover { 
+    background-color: #ff5722;
+}
+
+#subssubmit:hover { 
+    background-color: #ff5722;
+}
+
     @media only screen and (min-width : 320px) {
         #subscribe{
               width: 35.66%;
@@ -223,3 +239,4 @@ footer {
         }
     }
 /*Subscribe button CSS*/
+
