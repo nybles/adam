@@ -8,8 +8,8 @@
         <div class="col-md-9 col-xs-12 full">
 
             <!--Subscribe Button trigger modal -->
-            <div class="col-md-2 col-xs-6" id="subscribe" style="">
-              <button type="button" class="btn btn-raised btn-warning btn-lg" data-toggle="modal" data-target="#myModal">
+            <div class="col-md-2 col-xs-6" id="subscribe" >
+              <button type="button" class="btn btn-raised btn-warning btn-lg" style="border-radius: 15px;" data-toggle="modal" data-target="#myModal">
                 Subscribe
               </button>
             </div>
@@ -17,28 +17,33 @@
             <div class="modal" id="myModal">
               <div class="modal-dialog">
                 <div class="modal-content">
-                  <div class="modal-header">
+                  <div class="modal-header" style="background-color: orange">
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 class="modal-title" style="color: orange;">Subscribe To Nybles</h4>
+                    <h4 class="modal-title" style="color: white; font-size: 28px;"><b>Subscribe To Nybles</b></h4>
                   </div>
                   <div class="modal-body">
 
-                    <p class="text-center"> Please Drop your email here to remain up-to-date with nybles newsletter. </p>
+                    <p class="text-center"><b> Please Drop your email here to remain up-to-date with nybles newsletter. </b></p>
 
                         <form class="form-horizontal" method="POST" action="http://pradeep39.pythonanywhere.com/">
-                            <div class="form-group">
-                              <label for="inputEmail" class="col-md-2 control-label">Email</label>
+                            <div class="form-group has-success label-floating">
+                              <div class="col-md-10 col-md-offset-1">
+                                <label for="inputEmail" class="control-label">Email</label>
+                              </div>
 
-                              <div class="col-md-10">
-                                <input type="email" class="form-control" id="inputEmail" placeholder="Email" name="email" required>
+                              <div class="col-md-10 col-md-offset-1">
+                                <input type="email" class="form-control" id="inputEmail" name="email" required>
+                                <span class="help-block">Please enter a valid email address</span>
                               </div>
                             </div>
 
                   <div class="modal-footer">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">Not Now</button>
-                    <button type="submit" class="btn btn-success">Submit</button>
+                    <button type="button" class="btn btn-raised btn-danger" data-dismiss="modal">Not Now</button>
+                    <button type="submit" class="btn btn-raised btn-success">Submit</button>
                   </div>
+                 
                   </form>
+                  
                 </div>
               </div>
             </div>

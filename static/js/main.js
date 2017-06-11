@@ -4,3 +4,5 @@
 	
 	});
 })(jQuery);
+
+$.material.init()
