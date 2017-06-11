@@ -1,5 +1,6 @@
 <div class="header-panel shadow-z-2">
     <div class="container">
+
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="row-picture">
@@ -17,14 +18,18 @@
                     </button>
                 </div>
             </div>
+              
 
             <div class="col-md-9 col-sm-8 col-xs-12">
                 <h2 class="blog-title-pro">{{ page.title }}</h2>
+
                 {% if page.author %}
                 <p class="info">By
                     <!--<a href="https://github.com/{{ page.author }}" target="_blank">-->
                     {{ page.author }}</p>
                 {% endif %}
+
+
                 <p class="info">
                     {% if page.date %}
                     <span class="time">{{ page.date | date_to_string }}</span>
@@ -50,6 +55,7 @@
                     {% endif %}
                 </p>
 
+           
                 <!-- This is Search Box code. It sends requests to search.html located in main directory .. which then uses two JS files names search.js and lunr.min.js and returns search results-->
 
                 <div class="input-group col-xs-4 col-xs-offset-8">
@@ -65,7 +71,8 @@
             </div>
         </div>
     </div>
-    <di id="fb-root"></div>
+
+       <di id="fb-root"></div>
         <script>(function(d, s, id) {
              var js, fjs = d.getElementsByTagName(s)[0];
              if (d.getElementById(id)) return;
