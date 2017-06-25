@@ -8,12 +8,12 @@ layout: default
 
     <div class="projects row">
     <!--{% include events_tags.html %}-->
-    {% for i in site.data.editors %}
+    {% for i in site.data.developers %}
     <div class="project-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
-    			<a href="{{ site.baseurl }}/static/editors/{{ i.image }}" class="thickbox">
-    			<div class="project-img bordered" style="background-image: url('{{ site.baseurl }}/static/editors/{{ i.image }}'); background-size: contain;"></div>
+    			<a href="{{ site.baseurl }}/static/developers/{{ i.image }}" class="thickbox">
+    			<div class="project-img bordered" style="background-image: url('{{ site.baseurl }}/static/developers/{{ i.image }}'); background-size: contain;"></div>
                 </a>
                 {% if i.url %} <a href="{{ i.url }}" target="_blank"> {% endif %}
     			<h3 class="project-headlines">{{ i.name }}</h3>
