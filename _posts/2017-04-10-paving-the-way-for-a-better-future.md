@@ -15,7 +15,7 @@ So, let’s get started.
 
 Every story has a beginning. 
 
-![Elon Musk photo](https://s-media-cache-ak0.pinimg.com/originals/60/d3/f4/60d3f4715ce5d51c0bde9d5178401b51.png)
+<img class="lazy" src="https://s-media-cache-ak0.pinimg.com/originals/60/d3/f4/60d3f4715ce5d51c0bde9d5178401b51.png" data-original="https://s-media-cache-ak0.pinimg.com/originals/60/d3/f4/60d3f4715ce5d51c0bde9d5178401b51.png" alt="Elon Musk photo">
 
 At the age of 10, he developed an interest in computing with the Commodore VIC-20, an 8-bit home computer, and the first one to sell 1 million units. Apart from that, he taught himself computer programming at the age of 12, and sold the code for a BASIC- based video game called Blaster to a magazine called PC and Office Technology for approximately 500$. 
 
@@ -23,13 +23,13 @@ Well that’s a great start already. But there’s more to add to it.
 
 Much influenced by the Internet boom occurring some years later he ends up deciding that he’ll quit the world of academia, and focus on setting up a company along with his brother. This led to the formation of Zip2 in 1995, which primarily provided and licensed online city guide software to newspapers.  He combined a free Navteq database with a Palo Alto business database to create the first system. The company then began to assist newspapers in designing online city guides, and struck up deals with newspapers like New York Times, ultimately being purchased by Compaq for US$307 million.
 
-![](https://www.drupal.org/files/project-images/paypal_logo.jpg)
+<img class="lazy" src="https://www.drupal.org/files/project-images/paypal_logo.jpg" data-original="https://www.drupal.org/files/project-images/paypal_logo.jpg">
 
 With the US$10 million he got from the purchase of Zip2, he set up a company called X.com (sounds like a name of a top-secret government site, but it wasn’t), an online financial services and e-mail payment company. An year later, the company merged with Confinity, which had a money transfer service called PayPal. The merged company later focused on the PayPal service and later it was renamed PayPal. In 2002, PayPal was occupied by eBay for US$1.5 billion in stock, of which Musk received US$165 million. 
 
 In 2001, Elon Musk conceptualized Mars Oasis, a project to land a miniature experimental greenhouse and grow plants on Mars, "so this would be the furthest that life’s ever traveled in an attempt to regain public interest in space exploration and increase the budget of NASA. Musk tried to buy cheap rockets from Russia, but returned empty-handed after failing to find rockets for an affordable price.
 
-![](https://www.nasa.gov/sites/default/files/thumbnails/image/39a_aerial1.jpg)
+<img class="lazy" src="https://www.nasa.gov/sites/default/files/thumbnails/image/39a_aerial1.jpg" data-original="https://www.nasa.gov/sites/default/files/thumbnails/image/39a_aerial1.jpg">
 
 On the flight home, Musk realized that he could start a company that could build the affordable rockets he needed. According to early Tesla and SpaceX investor Steve Jurvetson, Musk calculated that the raw materials for building a rocket actually were only 3 percent of the sales price of a rocket at the time. By applying vertical integration, producing around 85% of launch hardware in-house, and the modular approach from software engineering, SpaceX could cut launch price by a factor of ten and still enjoy a 70 percent gross margin.SpaceX started with the smallest useful orbital rocket, instead of building a more complex and riskier launch vehicle, which could have failed and bankrupted the company.
 

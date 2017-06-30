@@ -7,3 +7,11 @@
 <script src="{{ site.baseurl }}/static/js/main.js"></script>
 <script src="{{ site.baseurl }}/static/js/projects.js"></script>
 <script src="{{ site.baseurl }}/static/js/loader.js"></script>
+<script src="{{ site.baseurl }}/static/js/jquery.lazyload.js"></script>
+<script type="text/javascript">
+	$(window).ready(function() {
+		$("img.lazy").lazyload({
+			effect : "fadeIn"
+		});
+	});
+</script>

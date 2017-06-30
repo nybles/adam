@@ -4,8 +4,7 @@ title:  "Hackathons: What’s all the fuss about and why you should care"
 author: Faheem Zunjani
 categories: trending campus
 ---
-
-![Hackathon]({{ site.url }}/assets/hackathon-bigpic.jpg)
+<img class="lazy" src="{{ site.url }}/assets/hackathon-bigpic.jpg" data-original="{{ site.url }}/assets/hackathon-bigpic.jpg" alt="Hackathon">
 
 ## What in seven hells is a hackathon?
 Do you love the sound of clanking of a hundred keyboards? Do you love to be in a high stressed time-crunch environment? Do you love to be at a place with too much tech quotient in a single room? Are you ready to feel the thrill of all this?  
@@ -26,16 +25,16 @@ That is what you get in a hackathon, an opportunity to showcase your skills.
 1. #### Build your network:  
 A hackathon can be the largest gathering of enthusiasts just like you, eager to try their hands on something new. You get the opportunity to meet up with the big shots of the tech industry, the seasoned bearded developers, and the programmers who wear the same shirt everyday and connect with them.
 1. #### Acquire industry skills:  
-If you’re novice in programming, you’ll learn how to create a project from scratch, chalk out the problem, and present to a panel of judges. You get an opportunity to enhance your team collaboration and presentation skills.  In short, a hackathon prepares you for working in a fast-paced environment and gives industry professionals experience tackling coding challenges.  
-![Hackathon presentation]({{ site.url }}/assets/hackathon-presentation.jpg)  
+If you’re novice in programming, you’ll learn how to create a project from scratch, chalk out the problem, and present to a panel of judges. You get an opportunity to enhance your team collaboration and presentation skills.  In short, a hackathon prepares you for working in a fast-paced environment and gives industry professionals experience tackling coding challenges.
+<img class="lazy" src="{{ site.url }}/assets/hackathon-presentation.jpg" data-original="{{ site.url }}/assets/hackathon-presentation.jpg" alt="Hackathon presentation">
 
 1. #### Free food:  
-Now I think I have your attention. Yes, you get free food from _Granola bars_ to _Biryani_ to _Pizzas_ to _Coke_.  
-![Hackathon food]({{ site.url }}/assets/hackathon-food.jpg)  
+Now I think I have your attention. Yes, you get free food from _Granola bars_ to _Biryani_ to _Pizzas_ to _Coke_.
+<img class="lazy" src="{{ site.url }}/assets/hackathon-food.jpg" data-original="{{ site.url }}/assets/hackathon-food.jpg" alt="Hackathon food">
 
 1. #### Swags:  
-Okay, you envy that guy roaming around in a _Google_ t-shirt. Come to a hackathon and be prepared to get a ton of stickers, shirts, etc from all the companies you could have only dreamt of.  
-![Hackathon swags]({{ site.url }}/assets/hackathon-swags.jpg)  
+Okay, you envy that guy roaming around in a _Google_ t-shirt. Come to a hackathon and be prepared to get a ton of stickers, shirts, etc from all the companies you could have only dreamt of.
+<img class="lazy" src="{{ site.url }}/assets/hackathon-swags.jpg" data-original="{{ site.url }}/assets/hackathon-swags.jpg" alt="Hackathon swags">  
 
 1. #### Work with APIs:  
 Most companies like Twilio, Spotify, etc that partner with hackathons offer their APIs for the hackers to use free of cost.

@@ -32,9 +32,7 @@ Quick Talks powered by Github were a means to spread knowledge about upcoming to
 
 ## 2. OpenCode
 
-![OpenCode Logo][logo]
-
-[logo]: https://raw.githubusercontent.com/fossiiita/opencode/master/Logo.png
+<img class="lazy" src="https://raw.githubusercontent.com/fossiiita/opencode/master/Logo.png" data-original="https://raw.githubusercontent.com/fossiiita/opencode/master/Logo.png" alt="Opencode Logo">
 
 A month long event, Opencode, was held by the Free and Open Source Software Wing of Geekhaven to get more people involved in open source development. It was a Google Summer of Code style event, which witnessed great participation (mostly from first year students) and got everyone to think about the vastness and breadth of open source. 
 For an in-depth analysis of the event, do visit [Gautham Santhosh's blog post on it.](https://gauthamzz.github.io/2017/02/23/opencode/)

@@ -8,13 +8,10 @@ categories: trending
 The digital world is changing at a tremendous speed. New communication technologies open up new possibilities.I can say that none of us can live without internet these days, but by using them one can make his personal details exposed to others which may lead him to face many problems.
 
 **Internet Security**
-<<<<<<< HEAD
 
 Internet security is a term for a very broad issue covering security for transactions made over the Internet.A small example over this point: Consider youself saying something important and is to be kept secret initially you must see that the person to whom you are conveying the message is trustable, similar case comes here "Technologies are invested in types of trust relations some are safer than others, some can be modified, and some are better avoided".Information security is:"the practice of ensuring information is only read,heard, changed, broadcast and otherwise used by people who have the right to do so" (Source: UK Online for Business) 
-=======
->>>>>>> 4a2ab46a178a5960c0855a43be81bd0890739915
 
-![internetsecurity.png](https://i.imgsafe.org/b7b53e3efd.jpg)
+<img class="lazy" src="https://i.imgsafe.org/b7b53e3efd.jpg" data-original="https://i.imgsafe.org/b7b53e3efd.jpg" alt="internetsecurity">
 	
    Internet security is a term for a very broad issue covering security for transactions made over the Internet.A small example over this point: Consider youself saying something important and is to be kept secret initially you must see that the person to whom you are conveying the message is trustable, similar case comes here "Technologies are invested in types of trust relations some are safer than others, some can be modified, and some are better avoided".Information security is:"the practice of ensuring information is only read,heard, changed, broadcast and otherwise used by people who have the right to do so" (Source: UK Online for Business) 
     
@@ -23,13 +20,8 @@ In the eighties when the Internet was in its initial stages , its main usage cam
 Generally, Internet security has browser security, the security of data entered through a Web form, and protection of data sent via Internet Protocol.Internet security relies on specific resources and standards for protecting data that gets sent through the Internet. This includes various kinds of encryption.Aspects of a secure Web setup includes firewalls, which block unwanted traffic, and anti-virus programs that work from specific networks or devices to monitor Internet traffic for dangerous attachments.
 
 **Understanding Path of Info We Send**
-<<<<<<< HEAD
 
 To understand term "internet security" we need to have a basic understanding of how the Internet is organised and which path our information travels.Which can help us in taking measures to protect ourselves.Going back to the era where we used post-cards for communication, if a person sent some information through a post-card then postman on the way can read the message, alter its content and/or the destination.To counter this, people have used secret languages to communicate safely.Similarly coming to this internet era the info that a person sent can be captured somewhere in its path to the reciever so measures such as encryption are to be taken such that it doesnot get captured.
-=======
-	
-   To understand term "internet security" we need to have a basic understanding of how the Internet is organised and which path our information travels.Which can help us in taking measures to protect ourselves.Going back to the era where we used post-cards for communication, if a person sent some information through a post-card then postman on the way can read the message, alter its content and/or the destination.To counter this, people have used secret languages to communicate safely.Similarly coming to this internet era the info that a person sent can be captured somewhere in its path to the reciever so measures such as encryption are to be take such that it doesnot get captured.
->>>>>>> 4a2ab46a178a5960c0855a43be81bd0890739915
 
 So,now lets get to know how the data transfer takes place between client and host.
      
@@ -38,18 +30,13 @@ Let us suppose you have requested for an HTML document from a remote computer us
 On receiving data from the server, the client which is a browser in our case, starts to display the HTML page. The client holds the sole prerogative on document display, with no involvement from the servers’ side. Once it sends the data to the remote computer, the server, so to say, washes its hands off it. On receipt of all requested data, the client-server connection is lost. Thus, the next time this client asks for some information from the server, the server will treat it as a new request without any recollection of previous requests. This means that client-server interaction is “stateless” with every new request generating a new response.
 
 The attacker has no way to come ,access your system or the server's system directly to get the information he need.So the way he can get it is only through capturing the information by getting into the path or by interpreting himself as a legal one to the server in order to get the information.Attackers try to get access of different types of protocol modules present in between client and server. i.e in the path of information.
-![path of data](https://i.imgsafe.org/b7b1e0877f.png)
+<img class="lazy" src="https://i.imgsafe.org/b7b1e0877f.png" data-original="https://i.imgsafe.org/b7b1e0877f.png" alt="path of data">
 
-<<<<<<< HEAD
-** Common Online Security Threats ** 
 
-	*Spyware Threats*
-	A serious computer security threat, spyware is any program that monitors your online activities or installs programs without your consent for profit or to capture personal information. 
-=======
 **Common Online Security Threats** 
- 
-**Spyware Threats** 
->>>>>>> 4a2ab46a178a5960c0855a43be81bd0890739915
+
+**Spyware Threats**
+	A serious computer security threat, spyware is any program that monitors your online activities or installs programs without your consent for profit or to capture personal information.	
 	
 A serious computer security threat, spyware is any program that monitors your online activities or installs programs without your consent for profit or to capture personal information.
  
@@ -65,14 +52,13 @@ Being as a trustworthy person or as a friend, phishers attempt to steal sensitiv
  **Viral Web Sites**
  
  Users may often get email messages to visit websites that contain viruses or Trojans. These sites are known as viral web sites and are often made to look like well known web sites. Users who visit these sites often inadvertently download and run a virus or Trojan and can then become infected or the subject of hacker attacks.
-         
 
    **Social Engineering**
 
 Tricking computer users into revealing computer security or private information, e.g. passwords, email addresses, etc, by exploiting the natural tendency of a person to trust and/or by exploiting a person's emotional response. 
  
 **How to Secure Yourself**
-![image](http://i.imgsafe.org/b7b4295721.jpg)
+<img class="lazy" src="http://i.imgsafe.org/b7b4295721.jpg" data-original="http://i.imgsafe.org/b7b4295721.jpg" alt="image">
 	
 
 **Prevention** 

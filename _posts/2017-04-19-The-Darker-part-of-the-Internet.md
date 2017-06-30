@@ -11,25 +11,25 @@ categories: trending
 
  **Deep web** is distinct from **dark web**. The “dark web” is the encrypted network that exists between Tor servers and their clients, whereas the “deep web” is simply the content of databases and other web services that for one reason or another cannot be indexed by conventional search engines.
 
-![Dark Web](https://stardiariesweb.files.wordpress.com/2017/04/dark-web.jpg)
+<img class="lazy" src="https://stardiariesweb.files.wordpress.com/2017/04/dark-web.jpg" data-original="https://stardiariesweb.files.wordpress.com/2017/04/dark-web.jpg" alt="Dark Web">
 
 If you want real anonymity, you’re going to want to use Tor, formerly known as The Onion Router. Using Tor’s software will make it difficult, if not impossible, for any snoops to see your web mail, search history, social media posts or other online activity. They also won’t be able to tell which country you’re in by analyzing your IP address, which can be very useful for journalists, activists, business people and more.
 
  Your traffic is routed from your computer and through an onion-like layer of servers.
-![Tor](https://stardiariesweb.files.wordpress.com/2017/04/tor.jpg)
+<img class="lazy" src="https://stardiariesweb.files.wordpress.com/2017/04/tor.jpg" data-original="https://stardiariesweb.files.wordpress.com/2017/04/tor.jpg" alt="Tor">
 
  The dark web holds everything sweet and sour. Many websites in the deep web are not legal to visit (child pornography, snuff films, torture flicks, etc. ). These websites often change addresses frequently, and quite a bit of effort must be taken in order to find them. Because of the nature of these websites, their visitors are monitored. Although law enforcement may do their best to have these websites shut down, the deep web is under no legal jurisdiction (hence, the reason for the deep web’s existence). Search engines used here are DuckDuckGo and Torch ( to throw some light in the dark web).
 
  The largest darknet market remains the The Silk Road 3.0, the ‘**eBay of drugs**’ being an anonymous platform for selling illegal drugs. What sustains these markets’ existence is – BITCOINS.
 
-![Bitcoins](https://stardiariesweb.files.wordpress.com/2017/04/bitcoins.jpg)
+<img class="lazy" src="https://stardiariesweb.files.wordpress.com/2017/04/bitcoins.jpg" data-original="https://stardiariesweb.files.wordpress.com/2017/04/bitcoins.jpg" alt="Bitcoins">
 
  Bitcoin is both a crypto-currency and an electronic payment system invented by an unidentified programmer, or group of programmers, under the name of Satoshi Nakamoto.
 
  But here’s the catch! It’s value is highly dynamic in nature, or as experts like to say- a bubble. Get some for yourself right here ! 
  http://www.wikihow.com/Get-Bitcoins
 
-![Bitcoins](https://stardiariesweb.files.wordpress.com/2017/04/capture.png)
+<img class="lazy" src="https://stardiariesweb.files.wordpress.com/2017/04/capture.png" data-original="https://stardiariesweb.files.wordpress.com/2017/04/capture.png" alt="Bitcoins">
 
 All in all, if the purpose of using the dark web is purely curiosity, you’re a lot safer than most of us (not true 😛 ). Register on Silk Route 3.0 and get ready to come across real drug dealers, ISIS cult, hitmans for takeaways and people selling just carrots only to obtain some bitcoins! Bitcoins can be very handy for direct online transactions and the deep web holds very useful data in certain directories :-
 
