@@ -18,6 +18,15 @@ content should be added here,No need to add title name again.
 
 ```
 
+## Adding Images in Post
+All images in post are loaded when they appear on screen.So images should be added in the following way:
+```
+<img class="lazy" src="" data-original="" alt="">
+
+```  
+```src``` and ```data-originals``` should have same path or link to image.  
+```alt``` includes title of image as text.  
+
 ### Scripts 
 
 if you want to fetch another persons pull request and edit,then 
