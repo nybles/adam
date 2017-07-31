@@ -8,8 +8,7 @@ categories: future
 The story of quantum computers begins in 1981 with _Richard Feynman_, probably the most famous physicist of his time. 
 At a conference on physics and computation at the Massachusetts Institute of Technology, Feynman asked the question: 
 _**Can we simulate physics on a computer**_?
-
-![History of Quantum](https://www.ias.edu/sites/default/files/styles/grid_feature_teaser/public/images/featured-thumbnails/ideas/dt_c120417.jpg?itok=_AqJ9MtK)
+<img class="lazy" src="https://www.ias.edu/sites/default/files/styles/grid_feature_teaser/public/images/featured-thumbnails/ideas/dt_c120417.jpg?itok=_AqJ9MtK" data-original="https://www.ias.edu/sites/default/files/styles/grid_feature_teaser/public/images/featured-thumbnails/ideas/dt_c120417.jpg?itok=_AqJ9MtK" alt="History of Quantum">
 
 The answer was — _not exactly_. Or, more precisely — not all of physics. One of the branches of physics is quantum mechanics, 
 which studies the laws of nature on the scale of individual atoms and particles. If we try to simulate quantum mechanics
@@ -30,8 +29,7 @@ Qubits have much more power than classical bits because of two unique properties
  
   * _They can represent both 1 and 0 at the same time._
   * _They can affect other qubits via a phenomenon known as quantum entanglement._
-  
- ![Qubit](https://cdn-images-1.medium.com/max/600/1*QJx9nAnCJqWodVa-nu9wjw.png)
+ <img class="lazy" src="https://cdn-images-1.medium.com/max/600/1*QJx9nAnCJqWodVa-nu9wjw.png" data-original="https://cdn-images-1.medium.com/max/600/1*QJx9nAnCJqWodVa-nu9wjw.png" alt="Qubit"> 
  
  _^ Binary bits v/s the Bloch Sphere. The Bloch sphere is a representation of a qubit, the fundamental building block of quantum computers._
   
@@ -48,8 +46,7 @@ will be running on the same hardware.
 
 Quantum computers could be exponentially faster at running artificial-intelligence programs and handling complex simulations 
 and scheduling problems. They could even create uncrackable encryption. Lets take a look at them!
-
-![Possibilities](https://www.dwavesys.com/sites/default/files/tut-intro-apps.jpg)
+<img class="lazy" src="https://www.dwavesys.com/sites/default/files/tut-intro-apps.jpg" data-original="https://www.dwavesys.com/sites/default/files/tut-intro-apps.jpg" alt="Possibilities">
 
    1. **Realising Virtual Experiments** :
       * We could model the behavior of atoms and particles at unusual conditions, for example, very high energies that can be 
@@ -78,8 +75,7 @@ and scheduling problems. They could even create uncrackable encryption. Lets tak
       order up a trip on the TARDIS anytime soon, because the crystals in question have nothing to do with time travel!
       Physicists have created a new form of matter, which not only exhibits periodic structures in space but also in time.
       Scientists call it a _**"time crystal"**_. 
-            
-      ![time](http://www.messagetoeagle.com/wp-content/uploads/2017/03/timecrystals.jpg)
+       <img class="lazy" src="http://www.messagetoeagle.com/wp-content/uploads/2017/03/timecrystals.jpg" data-original="http://www.messagetoeagle.com/wp-content/uploads/2017/03/timecrystals.jpg" alt="time">     
       
       What’s unique about the crystals, is that they have properties that repeat over time in a manner analogous to the way the
       atoms in crystal lattices repeat over space; but, most repeating phenomena are easily altered. An AC electrical current,
@@ -107,8 +103,7 @@ and scheduling problems. They could even create uncrackable encryption. Lets tak
       that has become populated by rogue whistleblowers (or, as the Michael Flynn case suggests, rogue employees on a vendetta)
       and in which our most trusted and guarded information networks have become extremely porous, the mission motto of the 1992
       Robert Redford movie Sneakers — “No More Secrets” — may be coming to pass before our eyes.
-
-      ![crypto](https://ryaandavis.files.wordpress.com/2013/07/cryptography.jpg)
+<img class="lazy" src="https://ryaandavis.files.wordpress.com/2013/07/cryptography.jpg" data-original="https://ryaandavis.files.wordpress.com/2013/07/cryptography.jpg" alt="crypto">
         
       _**Fortunately, however, there is a silver lining to all these dark shadows.**_
       

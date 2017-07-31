@@ -9,14 +9,16 @@ categories: the-category-you-want
 We belive that "the whole is larger than the sum of its parts". Hence we invite each and everyone to write an article, by following the procedure given below.
 
 * Fork [this repo](https://github.com/nybles/nybles.github.io/).
-![forking](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+
+<img class="lazy" src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" data-orignal="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" alt="forking">
 
 * Head towards the [\_posts directory](https://github.com/nybles/nybles.github.io/tree/master/_posts) (on your own fork).
 * Download [this file](https://github.com/nybles/nybles.github.io/tree/master/template.md) and write your post here.
 * Rename the file as `YYYY-MM-DD-name-of-post.md` and upload it at [\_posts directory](https://github.com/nybles/nybles.github.io/tree/master/_posts)
 
 * Once you are done, [make a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) for your post to be published.
-![create a pr](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png).
+
+<img class="lazy" src="https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png" data-original="https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png" alt="create a pr">
 
 * Here are some tutorials for some pre-requisites:
   - [Using Github](https://guides.github.com/activities/hello-world/).

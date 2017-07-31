@@ -8,7 +8,7 @@ categories: campus
 
 Hi, I am Divanshu Garg. I am an alumnus of IIIT Allahabad from 2015 batch. I obtained my bachelors degree from the institution majoring in Information Technology. After graduating from college, I worked as a Software Engineer at Google Sydney for more than an year. Presently, ***I am working in a similar role at Google, Mountain View.*** I am enthusiastic about learning new technologies and building anything cool using them. I am particularly interested in ***machine learning, competitive programming and Android development.***
 
-![image](http://i.imgsafe.org/32f8ab0309.jpg)
+<img class="lazy" data-original="http://i.imgsafe.org/32f8ab0309.jpg" src="http://i.imgsafe.org/32f8ab0309.jpg">
 
 ## What was your first impression about the college?
 
@@ -55,6 +55,5 @@ I am ***not a very great future planner. I try to focus on things in the present
 ## Any advice you would like to give us?
 
 The only advice that I would like to give is ***“Follow your passion and work hard to make your dreams come true”. Every person is unique with different interests.*** You should not follow something because someone else is doing it. You should follow something because you have a passion towards achieving it. You will realize very soon that once your interests match with what your goals are, it’s only a matter of time and hard work before you achieve them. Never be afraid to dream big!
-
-![Image](http://i.imgsafe.org/32f8957ab6.jpg)
-![image](http://i.imgsafe.org/32f8b17c10.jpg)
+<img class="lazy" data-original="http://i.imgsafe.org/32f8957ab6.jpg" src="http://i.imgsafe.org/32f8957ab6.jpg">
+<img class="lazy" data-original="http://i.imgsafe.org/32f8b17c10.jpg" src="http://i.imgsafe.org/32f8b17c10.jpg">

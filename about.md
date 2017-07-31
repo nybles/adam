@@ -16,8 +16,7 @@ Nybles is an ambitious idea to bring forward the tech happenings around you.
 
 A Tech newsletter of IIIT Allahabad. 
 
-
-![Image]({{ site.baseurl }}/static/img/technically.png)
+<img class="lazy" src="{{ site.baseurl }}/static/img/technically.png" data-original="{{ site.baseurl }}/static/img/technically.png" alt="Image">
 
 There is a huge problem we face, we often don’t realise how many amazing things that are happening around us. You might not even know about the awesome things your dorm-mate made or the things your friends have built. Maybe because he is too introverted to show it around. 
 With this initiative we will try our best to update you about the things that are happening in our campus. 

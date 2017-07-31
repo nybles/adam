@@ -4,8 +4,7 @@ title:   BLOCKCHAIN , The Technology Of The Years To Come
 author: Elaine Mary
 categories: trending
 ---
-
-![Blockchain](https://i1.wp.com/www.indianweb2.com/wp-content/uploads/2016/10/blockchain.jpg?resize=700%2C352)
+<img class="lazy" src="https://i1.wp.com/www.indianweb2.com/wp-content/uploads/2016/10/blockchain.jpg?resize=700%2C352" data-original="https://i1.wp.com/www.indianweb2.com/wp-content/uploads/2016/10/blockchain.jpg?resize=700%2C352" alt="Blockchain">
 
 A blockchain is a ledger of records arranged in data batches called blocks that use cryptographic validation to link themselves
 together. Put simply, each block references and identifies the previous block by a hashing function, forming an unbroken chain,
@@ -26,7 +25,7 @@ for other applications. The blockchain format was first used for bitcoin, as a s
 secure and not requiring a trusted administrator. Today, it is considered to be a **_foundational technology_** that **_has the 
 potential to create new foundations for our economic and social systems._**
 
-![Blockchain](https://assets.weforum.org/editor/_DRLsawgrOCG3OwH3VP4o9VuR4HMAsBeRGFZSo_7RPk.png)
+<img class="lazy" src="https://assets.weforum.org/editor/_DRLsawgrOCG3OwH3VP4o9VuR4HMAsBeRGFZSo_7RPk.png" data-original="https://assets.weforum.org/editor/_DRLsawgrOCG3OwH3VP4o9VuR4HMAsBeRGFZSo_7RPk.png" alt="Blockchain">
 
 ### Why Is It Considered Revolutionary ?
 
@@ -39,7 +38,7 @@ potential to create new foundations for our economic and social systems._**
  3. _**High quality data :**_
     Blockchain data is complete, consistent, timely, accurate, and widely available.
     
-    ![Blockchain](https://www.cafonline.org/images/default-source/infographics/blockchain-infographic-part-image-1.png?sfvrsn=0)
+    <img class="lazy" src="https://www.cafonline.org/images/default-source/infographics/blockchain-infographic-part-image-1.png?sfvrsn=0" data-original="https://www.cafonline.org/images/default-source/infographics/blockchain-infographic-part-image-1.png?sfvrsn=0" alt="Blockchain" >
     
  4. _**Durability, reliability, and longevity :**_
     Due to the decentralized networks, blockchain does not have a central point of failure and is better able to withstand malicious attacks.
@@ -56,7 +55,7 @@ potential to create new foundations for our economic and social systems._**
  8. _**Faster transactions :**_
     Interbank transactions can potentially take days for clearing and final settlement, especially outside of working hours. Blockchain transactions can reduce transaction times to minutes and are processed 24/7.
 
-     ![Blockchain](http://dontapscott.com/wp-content/uploads/Raconteur-UK-Fintech-Dashboard-thumb.jpg)
+    <img class="lazy" src="http://dontapscott.com/wp-content/uploads/Raconteur-UK-Fintech-Dashboard-thumb.jpg" data-original="http://dontapscott.com/wp-content/uploads/Raconteur-UK-Fintech-Dashboard-thumb.jpg" alt="Blockchain" >
  
  9. _**Lower transaction costs :**_
     By eliminating third party intermediaries and overhead costs for exchanging assets, blockchains have the potential to greatly reduce transaction fees.
