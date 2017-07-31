@@ -5,24 +5,20 @@ permalink: /howto/
 author: bytes
 ---
 
-We belive that "the whole is larger than the sum of its parts". Hence we invite each and everyone to write an article, by following the procedure given below.
+#### **We belive that "the whole is larger than the sum of its parts". Hence we invite each and everyone to write an article, by following the procedure given below.**
 
-* Fork [this repo](https://github.com/nybles/nybles.github.io/).
-![forking](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+## Hey, Adding your article is very simple. 
 
-* Head towards the [\_posts directory](https://github.com/nybles/nybles.github.io/tree/master/_posts) (on your own fork).
-* Download [this file](https://github.com/nybles/nybles.github.io/tree/master/template.md) and write your post here.
-* Rename the file as `YYYY-MM-DD-name-of-post.md` and upload it at [\_posts directory](https://github.com/nybles/nybles.github.io/tree/master/_posts)
+*Follow the steps below :*
 
-* Once you are done, [make a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) for your post to be published.
-![create a pr](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png).
+* Click on **[Editor](https://nybles.github.io/markdown-editor)** on left Navigation bar.
+* Write your Article in our interactive editor in markdown format and see your output file on right side of editor.
+* To know more about markdown syntaxes Click: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) .
+* Fill out all details such as **Author**, **Categories** and **Title** in the text boxes provided.
+* Do not leave any field empty.
+* Once you are done. Press **Submit** Button. 
+* And you are done.
 
-* Here are some tutorials for some pre-requisites:
-  - [Using Github](https://guides.github.com/activities/hello-world/).
-  - [Forking a repo and making a pull request](https://guides.github.com/activities/forking/).
-  - [Writing in Markdown](https://guides.github.com/features/mastering-markdown/).
-  
-*All the best!*
+#### Once you have submitted your article you can view them under submissions page as long as they are being reviewed by our editors.
 
-
-Have further questions? We are always available [here](https://github.com/nybles/nybles.github.io/issues).
+**Once your post has been *reviewed* it will be posted on *Nybles*.**

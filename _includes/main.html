@@ -1,9 +1,65 @@
 <div class="container main outer">
+
       <div class="row">
+
         <div class="col-md-3 col-xs-12">
           {% include sidemenu.html %}
         </div>
         <div class="col-md-9 col-xs-12 full">
+
+            <!--Subscribe Button trigger modal -->
+            <div class="col-md-2 col-xs-6" id="subscribe" >
+              <button type="button" class="btn btn-raised btn-warning btn-lg" style="border-radius: 15px;" id="subsbutton" data-toggle="modal" data-target="#myModal">
+                Subscribe
+              </button>
+            </div>
+            
+            <div class="modal" id="myModal" style="margin-top: 9%;">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header" style="background-color: #d84315;">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title" style="color: white; font-size: 28px; text-align: center;"><b>Subscribe To Nybles</b></h4>
+                  </div>
+                  <div class="modal-body">
+
+                    <p class="text-center"><b> Please Drop your email here to remain up-to-date with nybles newsletter. </b></p>
+
+                        <form class="form-horizontal" method="POST" action="http://pradeep39.pythonanywhere.com/">
+
+                            <br>
+
+                            <div class="form-group label-floating">
+                            <div class="col-md-10 col-md-offset-1">
+                              <label for="inputEmail" class="control-label">Email</label>
+                            </div>
+                            <div class="col-md-10 col-md-offset-1">
+                              <input type="email" class="form-control" id="inputEmail" name="email" required>
+                            </div>  
+                            </div>
+                            <div class="form-group label-floating" style="display: none;">
+                            <div class="col-md-10 col-md-offset-1">
+                              <label for="inputEmail" class="control-label">Leave Blank</label>
+                            </div>
+                            <div class="col-md-10 col-md-offset-1">
+                              <input type="hidden" class="form-control" id="inputEmail" name="hidden" required>
+                            </div>  
+                            </div>
+
+                            <br>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-raised" style="background-color: #d84315; color: white; border-radius: 20px;" data-dismiss="modal" id="subsnotnow">Not Now</button>
+                              <button type="submit" class="btn btn-raised" style="background-color: #d84315; color: white; border-radius: 20px;" id="subssubmit">Submit</button>
+                            </div>
+                 
+                  </form>                  
+                </div>
+              </div>
+            </div>
+            </div>
+
+            <!-- Subscribe button ends here-->
+            
           {{ content }}
           <div class="row">
             <div class="col-md-12 col-xs-12 footer">
