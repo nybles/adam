@@ -6,7 +6,7 @@ logo: /nybles.github.io/beta-website/static/logo/Logo_2_transparent.png
 github: https://github.com/nybles/
 # about: IIIT Allahabad
 
-baseurl: ""
+baseurl: "https://nybles.github.io/beta-website/"
 url: "https://nybles.github.io/beta-website"
 
 theme_color: "#d84315"
